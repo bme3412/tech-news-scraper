@@ -1,0 +1,8 @@
+{
+    "article_title": "Microsoft infuses enterprise agents with deep reasoning, unveils data Analyst agent that outsmarts competitors",
+    "article_source": "VentureBeat",
+    "article_url": "https://venturebeat.com/ai/microsoft-infuses-enterprise-agents-with-deep-reasoning-unveils-data-analyst-agent-that-outsmarts-competitors/",
+    "article_date": "March 25, 2025 7:45 PM",
+    "summary": "Microsoft has enhanced its enterprise AI agent ecosystem with deep reasoning capabilities, introducing Researcher and Analyst agents for Microsoft 365 Copilot. The Analyst agent functions as a personal data scientist, generating insights from diverse data sources without user technical expertise. The company's deep reasoning technology allows agents to handle complex problems methodically, connecting reasoning models to enterprise data for tasks like generating RFP responses and conducting due diligence in mergers and acquisitions. Additionally, Microsoft has introduced agent flows, combining rule-based workflows with AI reasoning for scenarios like intelligent fraud prevention.",
+    "summary_generated_at": "2025-03-26T23:15:40.686296"
+}

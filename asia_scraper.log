@@ -1,0 +1,165 @@
+2025-03-26 23:08:53,571 - __main__ - INFO - Processing source: Tech in Asia
+2025-03-26 23:08:53,571 - __main__ - INFO - Getting article links from Tech in Asia
+2025-03-26 23:08:55,527 - __main__ - INFO - Found 0 article links from Tech in Asia
+2025-03-26 23:08:55,527 - __main__ - WARNING - No article links found for Tech in Asia on attempt 1
+2025-03-26 23:08:58,532 - __main__ - INFO - Getting article links from Tech in Asia
+2025-03-26 23:09:00,439 - __main__ - INFO - Found 0 article links from Tech in Asia
+2025-03-26 23:09:00,439 - __main__ - WARNING - No article links found for Tech in Asia on attempt 2
+2025-03-26 23:09:05,444 - __main__ - INFO - Getting article links from Tech in Asia
+2025-03-26 23:09:07,405 - __main__ - INFO - Found 0 article links from Tech in Asia
+2025-03-26 23:09:07,405 - __main__ - WARNING - No article links found for Tech in Asia on attempt 3
+2025-03-26 23:09:07,405 - __main__ - INFO - Completed scraping from Tech in Asia
+2025-03-26 23:09:07,406 - __main__ - INFO - Saved 0 articles to scraped_data/Asia_tech_news_20250326.json
+2025-03-26 23:09:07,406 - __main__ - INFO - Saved 0 articles so far
+2025-03-26 23:09:07,406 - __main__ - INFO - Processing source: South China Morning Post Tech
+2025-03-26 23:09:07,406 - __main__ - INFO - Getting article links from South China Morning Post Tech
+2025-03-26 23:09:08,288 - __main__ - INFO - Found 0 article links from South China Morning Post Tech
+2025-03-26 23:09:08,289 - __main__ - WARNING - No article links found for South China Morning Post Tech on attempt 1
+2025-03-26 23:09:11,294 - __main__ - INFO - Getting article links from South China Morning Post Tech
+2025-03-26 23:09:11,727 - __main__ - INFO - Found 0 article links from South China Morning Post Tech
+2025-03-26 23:09:11,728 - __main__ - WARNING - No article links found for South China Morning Post Tech on attempt 2
+2025-03-26 23:09:16,733 - __main__ - INFO - Getting article links from South China Morning Post Tech
+2025-03-26 23:09:17,183 - __main__ - INFO - Found 0 article links from South China Morning Post Tech
+2025-03-26 23:09:17,188 - __main__ - WARNING - No article links found for South China Morning Post Tech on attempt 3
+2025-03-26 23:09:17,188 - __main__ - INFO - Completed scraping from South China Morning Post Tech
+2025-03-26 23:09:17,189 - __main__ - INFO - Saved 0 articles to scraped_data/Asia_tech_news_20250326.json
+2025-03-26 23:09:17,189 - __main__ - INFO - Saved 0 articles so far
+2025-03-26 23:09:17,189 - __main__ - INFO - Processing source: Nikkei Asia Tech
+2025-03-26 23:09:17,189 - __main__ - INFO - Getting article links from Nikkei Asia Tech
+2025-03-26 23:09:18,210 - __main__ - INFO - Found 0 article links from Nikkei Asia Tech
+2025-03-26 23:09:18,210 - __main__ - WARNING - No article links found for Nikkei Asia Tech on attempt 1
+2025-03-26 23:09:21,216 - __main__ - INFO - Getting article links from Nikkei Asia Tech
+2025-03-26 23:09:21,602 - __main__ - INFO - Found 0 article links from Nikkei Asia Tech
+2025-03-26 23:09:21,602 - __main__ - WARNING - No article links found for Nikkei Asia Tech on attempt 2
+2025-03-26 23:09:26,607 - __main__ - INFO - Getting article links from Nikkei Asia Tech
+2025-03-26 23:09:26,733 - __main__ - INFO - Found 0 article links from Nikkei Asia Tech
+2025-03-26 23:09:26,733 - __main__ - WARNING - No article links found for Nikkei Asia Tech on attempt 3
+2025-03-26 23:09:26,733 - __main__ - INFO - Completed scraping from Nikkei Asia Tech
+2025-03-26 23:09:26,734 - __main__ - INFO - Saved 0 articles to scraped_data/Asia_tech_news_20250326.json
+2025-03-26 23:09:26,734 - __main__ - INFO - Saved 0 articles so far
+2025-03-26 23:09:26,734 - __main__ - INFO - Processing source: The Straits Times Tech
+2025-03-26 23:09:26,734 - __main__ - INFO - Getting article links from The Straits Times Tech
+2025-03-26 23:09:27,583 - __main__ - INFO - Found 0 article links from The Straits Times Tech
+2025-03-26 23:09:27,584 - __main__ - WARNING - No article links found for The Straits Times Tech on attempt 1
+2025-03-26 23:09:30,589 - __main__ - INFO - Getting article links from The Straits Times Tech
+2025-03-26 23:09:30,819 - __main__ - INFO - Found 0 article links from The Straits Times Tech
+2025-03-26 23:09:30,819 - __main__ - WARNING - No article links found for The Straits Times Tech on attempt 2
+2025-03-26 23:09:35,825 - __main__ - INFO - Getting article links from The Straits Times Tech
+2025-03-26 23:09:35,956 - __main__ - INFO - Found 0 article links from The Straits Times Tech
+2025-03-26 23:09:35,956 - __main__ - WARNING - No article links found for The Straits Times Tech on attempt 3
+2025-03-26 23:09:35,956 - __main__ - INFO - Completed scraping from The Straits Times Tech
+2025-03-26 23:09:35,957 - __main__ - INFO - Saved 0 articles to scraped_data/Asia_tech_news_20250326.json
+2025-03-26 23:09:35,957 - __main__ - INFO - Saved 0 articles so far
+2025-03-26 23:09:35,957 - __main__ - INFO - Processing source: Asia Times
+2025-03-26 23:09:35,957 - __main__ - INFO - Getting article links from Asia Times
+2025-03-26 23:09:36,366 - __main__ - INFO - Found 15 article links from Asia Times
+2025-03-26 23:09:39,672 - __main__ - INFO - Scraping article: https://asiatimes.com/2025/03/tsmc-making-a-risky-bet-on-maga/
+2025-03-26 23:09:45,153 - __main__ - INFO - Successfully scraped article: TSMC making a risky bet on MAGA
+2025-03-26 23:09:46,712 - __main__ - INFO - Scraping article: https://asiatimes.com/2025/03/chinas-naura-rising-to-the-chip-making-equipment-challenge/
+2025-03-26 23:09:46,995 - __main__ - INFO - Successfully scraped article: China’s Naura rising to the chip-making equipment challenge
+2025-03-26 23:09:49,902 - __main__ - INFO - Scraping article: https://asiatimes.com/2025/03/us-chip-making-dream-awakes-to-labor-crisis-reality/
+2025-03-26 23:09:50,012 - __main__ - ERROR - Error scraping article https://asiatimes.com/2025/03/us-chip-making-dream-awakes-to-labor-crisis-reality/: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-03-26 23:09:50,012 - __main__ - WARNING - Failed to scrape article https://asiatimes.com/2025/03/us-chip-making-dream-awakes-to-labor-crisis-reality/ on attempt 1
+2025-03-26 23:09:52,013 - __main__ - INFO - Scraping article: https://asiatimes.com/2025/03/us-chip-making-dream-awakes-to-labor-crisis-reality/
+2025-03-26 23:09:52,199 - __main__ - INFO - Successfully scraped article: US chip-making dream awakes to labor crisis reality
+2025-03-26 23:09:54,951 - __main__ - INFO - Scraping article: https://asiatimes.com/2025/03/four-chinese-firms-look-to-shake-up-tech-world-in-deepseeks-wake/
+2025-03-26 23:09:55,125 - __main__ - ERROR - Error scraping article https://asiatimes.com/2025/03/four-chinese-firms-look-to-shake-up-tech-world-in-deepseeks-wake/: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-03-26 23:09:55,125 - __main__ - WARNING - Failed to scrape article https://asiatimes.com/2025/03/four-chinese-firms-look-to-shake-up-tech-world-in-deepseeks-wake/ on attempt 1
+2025-03-26 23:09:57,128 - __main__ - INFO - Scraping article: https://asiatimes.com/2025/03/four-chinese-firms-look-to-shake-up-tech-world-in-deepseeks-wake/
+2025-03-26 23:10:00,934 - __main__ - INFO - Successfully scraped article: Four Chinese firms look to shake up tech world in DeepSeek’s wake
+2025-03-26 23:10:03,991 - __main__ - INFO - Scraping article: https://asiatimes.com/2025/03/after-deepseek-chinas-manus-the-hot-new-ai-under-the-spotlight/
+2025-03-26 23:10:04,236 - __main__ - INFO - Successfully scraped article: After DeepSeek: China’s Manus – the hot new AI under the spotlight
+2025-03-26 23:10:07,193 - __main__ - INFO - Scraping article: https://asiatimes.com/2025/03/china-all-in-on-risc-v-open-source-chip-design/
+2025-03-26 23:10:07,471 - __main__ - INFO - Successfully scraped article: China all in on RISC-V open-source chip design
+2025-03-26 23:10:10,296 - __main__ - INFO - Scraping article: https://asiatimes.com/2025/03/china-explores-military-applications-with-deepseek/
+2025-03-26 23:10:10,555 - __main__ - INFO - Successfully scraped article: China explores military applications with DeepSeek
+2025-03-26 23:10:12,576 - __main__ - INFO - Scraping article: https://asiatimes.com/2025/03/steps-needed-after-robot-nearly-head-butted-china-festival-spectator/
+2025-03-26 23:10:12,795 - __main__ - INFO - Successfully scraped article: Steps needed after robot nearly head-butted China festival spectator
+2025-03-26 23:10:15,987 - __main__ - INFO - Scraping article: https://asiatimes.com/2025/02/deepseek-is-now-the-brain-of-chinese-state-owned-firms/
+2025-03-26 23:10:16,225 - __main__ - INFO - Successfully scraped article: DeepSeek is now the brain of Chinese state-owned firms
+2025-03-26 23:10:18,834 - __main__ - INFO - Scraping article: https://asiatimes.com/2025/02/chinas-ai-boom-bigger-than-just-deepseek/
+2025-03-26 23:10:19,041 - __main__ - INFO - Successfully scraped article: China’s AI boom bigger than just DeepSeek
+2025-03-26 23:10:21,528 - __main__ - INFO - Scraping article: https://asiatimes.com/2025/02/chinese-dating-simulator-love-and-deepspace-now-has-period-tracker/
+2025-03-26 23:10:21,763 - __main__ - INFO - Successfully scraped article: Chinese dating simulator Love and Deepspace now has period tracker
+2025-03-26 23:10:23,772 - __main__ - INFO - Scraping article: https://asiatimes.com/2025/02/ai-revolution-wellness-wealth-and-a-world-without-work/
+2025-03-26 23:10:23,966 - __main__ - INFO - Successfully scraped article: AI revolution: wellness, wealth and a world without work
+2025-03-26 23:10:26,303 - __main__ - INFO - Scraping article: https://asiatimes.com/2025/02/tech-bros-back-in-chinas-official-spotlight-as-jack-ma-meets-xi/
+2025-03-26 23:10:26,511 - __main__ - INFO - Successfully scraped article: Tech bros back in China’s official spotlight as Jack Ma meets Xi
+2025-03-26 23:10:29,881 - __main__ - INFO - Scraping article: https://asiatimes.com/2025/02/china-connects-everything-to-deepseek-in-nationwide-plan/
+2025-03-26 23:10:29,965 - __main__ - ERROR - Error scraping article https://asiatimes.com/2025/02/china-connects-everything-to-deepseek-in-nationwide-plan/: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-03-26 23:10:29,965 - __main__ - WARNING - Failed to scrape article https://asiatimes.com/2025/02/china-connects-everything-to-deepseek-in-nationwide-plan/ on attempt 1
+2025-03-26 23:10:31,966 - __main__ - INFO - Scraping article: https://asiatimes.com/2025/02/china-connects-everything-to-deepseek-in-nationwide-plan/
+2025-03-26 23:10:32,212 - __main__ - INFO - Successfully scraped article: China connects everything to DeepSeek in nationwide plan
+2025-03-26 23:10:34,533 - __main__ - INFO - Scraping article: https://asiatimes.com/2025/02/where-deepseek-qwens-ai-engineers-really-come-from/
+2025-03-26 23:10:38,104 - __main__ - INFO - Successfully scraped article: Where DeepSeek, Qwen’s AI engineers really come from
+2025-03-26 23:10:38,104 - __main__ - INFO - Completed scraping from Asia Times
+2025-03-26 23:10:38,107 - __main__ - INFO - Saved 15 articles to scraped_data/Asia_tech_news_20250326.json
+2025-03-26 23:10:38,107 - __main__ - INFO - Saved 15 articles so far
+2025-03-26 23:10:38,107 - __main__ - INFO - Processing source: The Japan Times Tech
+2025-03-26 23:10:38,107 - __main__ - INFO - Getting article links from The Japan Times Tech
+2025-03-26 23:10:39,586 - __main__ - INFO - Found 0 article links from The Japan Times Tech
+2025-03-26 23:10:39,586 - __main__ - WARNING - No article links found for The Japan Times Tech on attempt 1
+2025-03-26 23:10:42,591 - __main__ - INFO - Getting article links from The Japan Times Tech
+2025-03-26 23:10:43,469 - __main__ - INFO - Found 0 article links from The Japan Times Tech
+2025-03-26 23:10:43,470 - __main__ - WARNING - No article links found for The Japan Times Tech on attempt 2
+2025-03-26 23:10:48,473 - __main__ - INFO - Getting article links from The Japan Times Tech
+2025-03-26 23:10:49,417 - __main__ - INFO - Found 0 article links from The Japan Times Tech
+2025-03-26 23:10:49,417 - __main__ - WARNING - No article links found for The Japan Times Tech on attempt 3
+2025-03-26 23:10:49,417 - __main__ - INFO - Completed scraping from The Japan Times Tech
+2025-03-26 23:10:49,423 - __main__ - INFO - Saved 15 articles to scraped_data/Asia_tech_news_20250326.json
+2025-03-26 23:10:49,423 - __main__ - INFO - Saved 15 articles so far
+2025-03-26 23:10:49,423 - __main__ - INFO - Processing source: CNA Tech
+2025-03-26 23:10:49,423 - __main__ - INFO - Getting article links from CNA Tech
+2025-03-26 23:10:52,744 - __main__ - ERROR - Error getting article links from CNA Tech: 404 Client Error: Not Found for url: https://www.channelnewsasia.com/technology
+2025-03-26 23:10:52,753 - __main__ - WARNING - No article links found for CNA Tech on attempt 1
+2025-03-26 23:10:55,754 - __main__ - INFO - Getting article links from CNA Tech
+2025-03-26 23:10:55,861 - __main__ - ERROR - Error getting article links from CNA Tech: 404 Client Error: Not Found for url: https://www.channelnewsasia.com/technology
+2025-03-26 23:10:55,862 - __main__ - WARNING - No article links found for CNA Tech on attempt 2
+2025-03-26 23:11:00,862 - __main__ - INFO - Getting article links from CNA Tech
+2025-03-26 23:11:00,952 - __main__ - ERROR - Error getting article links from CNA Tech: 404 Client Error: Not Found for url: https://www.channelnewsasia.com/technology
+2025-03-26 23:11:00,953 - __main__ - WARNING - No article links found for CNA Tech on attempt 3
+2025-03-26 23:11:00,953 - __main__ - INFO - Completed scraping from CNA Tech
+2025-03-26 23:11:00,956 - __main__ - INFO - Saved 15 articles to scraped_data/Asia_tech_news_20250326.json
+2025-03-26 23:11:00,956 - __main__ - INFO - Saved 15 articles so far
+2025-03-26 23:11:00,956 - __main__ - INFO - Processing source: China Daily Tech
+2025-03-26 23:11:00,956 - __main__ - INFO - Getting article links from China Daily Tech
+2025-03-26 23:11:01,839 - __main__ - INFO - Found 0 article links from China Daily Tech
+2025-03-26 23:11:01,839 - __main__ - WARNING - No article links found for China Daily Tech on attempt 1
+2025-03-26 23:11:04,841 - __main__ - INFO - Getting article links from China Daily Tech
+2025-03-26 23:11:05,582 - __main__ - INFO - Found 0 article links from China Daily Tech
+2025-03-26 23:11:05,582 - __main__ - WARNING - No article links found for China Daily Tech on attempt 2
+2025-03-26 23:11:10,587 - __main__ - INFO - Getting article links from China Daily Tech
+2025-03-26 23:11:10,945 - __main__ - INFO - Found 0 article links from China Daily Tech
+2025-03-26 23:11:10,945 - __main__ - WARNING - No article links found for China Daily Tech on attempt 3
+2025-03-26 23:11:10,945 - __main__ - INFO - Completed scraping from China Daily Tech
+2025-03-26 23:11:10,948 - __main__ - INFO - Saved 15 articles to scraped_data/Asia_tech_news_20250326.json
+2025-03-26 23:11:10,948 - __main__ - INFO - Saved 15 articles so far
+2025-03-26 23:11:10,948 - __main__ - INFO - Processing source: The Economic Times Tech
+2025-03-26 23:11:10,948 - __main__ - INFO - Getting article links from The Economic Times Tech
+2025-03-26 23:11:11,868 - __main__ - INFO - Found 0 article links from The Economic Times Tech
+2025-03-26 23:11:11,868 - __main__ - WARNING - No article links found for The Economic Times Tech on attempt 1
+2025-03-26 23:11:14,872 - __main__ - INFO - Getting article links from The Economic Times Tech
+2025-03-26 23:11:15,490 - __main__ - INFO - Found 0 article links from The Economic Times Tech
+2025-03-26 23:11:15,491 - __main__ - WARNING - No article links found for The Economic Times Tech on attempt 2
+2025-03-26 23:11:20,491 - __main__ - INFO - Getting article links from The Economic Times Tech
+2025-03-26 23:11:20,690 - __main__ - INFO - Found 0 article links from The Economic Times Tech
+2025-03-26 23:11:20,690 - __main__ - WARNING - No article links found for The Economic Times Tech on attempt 3
+2025-03-26 23:11:20,690 - __main__ - INFO - Completed scraping from The Economic Times Tech
+2025-03-26 23:11:20,695 - __main__ - INFO - Saved 15 articles to scraped_data/Asia_tech_news_20250326.json
+2025-03-26 23:11:20,695 - __main__ - INFO - Saved 15 articles so far
+2025-03-26 23:11:20,695 - __main__ - INFO - Processing source: The Korea Herald Tech
+2025-03-26 23:11:20,695 - __main__ - INFO - Getting article links from The Korea Herald Tech
+2025-03-26 23:11:23,177 - __main__ - INFO - Found 0 article links from The Korea Herald Tech
+2025-03-26 23:11:23,178 - __main__ - WARNING - No article links found for The Korea Herald Tech on attempt 1
+2025-03-26 23:11:26,179 - __main__ - INFO - Getting article links from The Korea Herald Tech
+2025-03-26 23:11:28,254 - __main__ - INFO - Found 0 article links from The Korea Herald Tech
+2025-03-26 23:11:28,254 - __main__ - WARNING - No article links found for The Korea Herald Tech on attempt 2
+2025-03-26 23:11:33,258 - __main__ - INFO - Getting article links from The Korea Herald Tech
+2025-03-26 23:11:35,247 - __main__ - INFO - Found 0 article links from The Korea Herald Tech
+2025-03-26 23:11:35,247 - __main__ - WARNING - No article links found for The Korea Herald Tech on attempt 3
+2025-03-26 23:11:35,247 - __main__ - INFO - Completed scraping from The Korea Herald Tech
+2025-03-26 23:11:35,250 - __main__ - INFO - Saved 15 articles to scraped_data/Asia_tech_news_20250326.json
+2025-03-26 23:11:35,250 - __main__ - INFO - Saved 15 articles so far
+2025-03-26 23:11:35,254 - __main__ - INFO - Saved 15 articles to scraped_data/Asia_tech_news_20250326.json
+2025-03-26 23:11:35,254 - __main__ - INFO - Scraping completed. Total articles: 15
+2025-03-26 23:11:35,257 - __main__ - INFO - Generated report saved to scraped_data/Asia_tech_news_20250326_report.json

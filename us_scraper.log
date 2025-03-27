@@ -1,0 +1,754 @@
+2025-03-26 22:58:56,226 - __main__ - INFO - Processing source: CNBC
+2025-03-26 22:58:56,226 - __main__ - INFO - Getting article links from CNBC
+2025-03-26 22:58:56,546 - __main__ - INFO - Found 11 article links from CNBC
+2025-03-26 22:58:58,920 - __main__ - INFO - Scraping article: https://www.cnbc.com/2025/03/27/alibaba-launches-open-source-ai-model-for-cost-effective-ai-agents.html
+2025-03-26 22:58:59,197 - __main__ - INFO - Successfully scraped article: Alibaba launches new open-source AI model for 'cost-effective AI agents'
+2025-03-26 22:59:01,801 - __main__ - INFO - Scraping article: https://www.cnbc.com/2025/03/26/trump-says-tesla-ceo-elon-musk-didnt-advise-on-auto-tariffs-despite-doge-role.html
+2025-03-26 22:59:02,196 - __main__ - INFO - Successfully scraped article: Trump says Tesla CEO Elon Musk didn’t advise on auto tariffs 'because he may have a conflict'
+2025-03-26 22:59:05,698 - __main__ - INFO - Scraping article: https://www.cnbc.com/2025/03/26/trump-says-he-may-reduce-china-tariffs-to-help-close-a-tiktok-deal.html
+2025-03-26 22:59:05,980 - __main__ - INFO - Successfully scraped article: Trump says he may reduce China tariffs to help close a TikTok deal
+2025-03-26 22:59:09,117 - __main__ - INFO - Scraping article: https://www.cnbc.com/2025/03/26/former-intel-ceo-pat-gelsinger-joins-venture-firm-playground-global.html
+2025-03-26 22:59:09,764 - __main__ - INFO - Successfully scraped article: Former Intel CEO Pat Gelsinger jumps to venture capital, joins Playground Global
+2025-03-26 22:59:12,062 - __main__ - INFO - Scraping article: https://www.cnbc.com/2025/03/26/utah-adopts-child-safety-law-requiring-apple-google-to-verify-user-ages.html
+2025-03-26 22:59:12,407 - __main__ - INFO - Successfully scraped article: Utah governor signs online child safety law requiring Apple, Google to verify user ages
+2025-03-26 22:59:15,700 - __main__ - INFO - Scraping article: https://www.cnbc.com/2025/03/26/23andme-co-founder-lashes-out-at-ceo-wojcicki-after-bankruptcy-filing.html
+2025-03-26 22:59:15,957 - __main__ - INFO - Successfully scraped article: 23andMe co-founder lashes out at CEO Wojcicki after bankruptcy filing, says board lacked oversight
+2025-03-26 22:59:18,280 - __main__ - INFO - Scraping article: https://www.cnbc.com/2025/03/26/the-concern-with-coreweaves-250000-nvidia-chips-ahead-of-its-ipo.html
+2025-03-26 22:59:18,562 - __main__ - INFO - Successfully scraped article: The concern with CoreWeave’s 250,000 Nvidia chips ahead of its IPO
+2025-03-26 22:59:20,698 - __main__ - INFO - Scraping article: https://www.cnbc.com/technology/
+2025-03-26 22:59:21,114 - __main__ - INFO - Successfully scraped article: Tech
+2025-03-26 22:59:21,115 - __main__ - WARNING - Failed to scrape article https://www.cnbc.com/technology/ on attempt 1
+2025-03-26 22:59:23,120 - __main__ - INFO - Scraping article: https://www.cnbc.com/technology/
+2025-03-26 22:59:23,391 - __main__ - INFO - Successfully scraped article: Tech
+2025-03-26 22:59:23,391 - __main__ - WARNING - Failed to scrape article https://www.cnbc.com/technology/ on attempt 2
+2025-03-26 22:59:26,396 - __main__ - INFO - Scraping article: https://www.cnbc.com/technology/
+2025-03-26 22:59:26,696 - __main__ - INFO - Successfully scraped article: Tech
+2025-03-26 22:59:26,697 - __main__ - WARNING - Failed to scrape article https://www.cnbc.com/technology/ on attempt 3
+2025-03-26 22:59:29,302 - __main__ - INFO - Scraping article: https://www.cnbc.com/2025/03/26/us-blacklists-50-chinese-companies-in-bid-to-curb-beijings-ai-chip-capabilities.html
+2025-03-26 22:59:31,105 - __main__ - INFO - Successfully scraped article: U.S. blacklists over 50 Chinese companies in bid to curb Beijing's AI, chip capabilities
+2025-03-26 22:59:33,730 - __main__ - INFO - Scraping article: https://www.cnbc.com/2025/03/25/amazon-testing-shopping-health-assistants-pushes-into-generative-ai.html
+2025-03-26 22:59:34,008 - __main__ - INFO - Successfully scraped article: Amazon is testing shopping, health assistants as it pushes deeper into generative AI
+2025-03-26 22:59:36,952 - __main__ - INFO - Scraping article: https://www.cnbc.com/2025/03/25/how-to-delete-23andme-genetic-data.html
+2025-03-26 22:59:37,225 - __main__ - INFO - Successfully scraped article: With 23andMe entering bankruptcy, here's how to delete your genetic data
+2025-03-26 22:59:37,225 - __main__ - INFO - Completed scraping from CNBC
+2025-03-26 22:59:37,227 - __main__ - INFO - Saved 10 articles to scraped_data/US_tech_news_20250326.json
+2025-03-26 22:59:37,227 - __main__ - INFO - Saved 10 articles so far
+2025-03-26 22:59:37,227 - __main__ - INFO - Processing source: VentureBeat
+2025-03-26 22:59:37,227 - __main__ - INFO - Getting article links from VentureBeat
+2025-03-26 22:59:38,486 - __main__ - INFO - Found 15 article links from VentureBeat
+2025-03-26 22:59:40,024 - __main__ - INFO - Scraping article: https://venturebeat.com/ai/studio-ghibli-ai-image-trend-overwhelms-openais-new-gpt-4o-feature-delaying-free-tier/
+2025-03-26 22:59:40,221 - __main__ - INFO - Successfully scraped article: ‘Studio Ghibli’ AI image trend overwhelms OpenAI’s new GPT-4o feature, delaying free tier
+2025-03-26 22:59:42,157 - __main__ - INFO - Scraping article: https://venturebeat.com/ai/groq-and-playai-just-made-voice-ai-sound-way-more-human-heres-how/
+2025-03-26 22:59:42,317 - __main__ - INFO - Successfully scraped article: Groq and PlayAI just made voice AI sound way more human — here’s how
+2025-03-26 22:59:44,878 - __main__ - INFO - Scraping article: https://venturebeat.com/ai/observe-launches-voiceai-agents-to-automate-customer-call-centers-with-realistic-humanlike-voices-that-dont-interrupt/
+2025-03-26 22:59:45,184 - __main__ - INFO - Successfully scraped article: Observe launches VoiceAI agents to automate customer call centers with realistic, humanlike voices that don’t interrupt
+2025-03-26 22:59:47,024 - __main__ - INFO - Scraping article: https://venturebeat.com/ai/the-open-source-model-context-protocol-was-just-updated-heres-why-its-a-big-deal/
+2025-03-26 22:59:47,341 - __main__ - INFO - Successfully scraped article: The open source Model Context Protocol was just updated — here’s why it’s a big deal
+2025-03-26 22:59:49,573 - __main__ - INFO - Scraping article: https://venturebeat.com/business/trust-wallet-reaches-200-million-downloads-milestone/
+2025-03-26 22:59:49,734 - __main__ - INFO - Successfully scraped article: Trust Wallet Reaches 200 Million Downloads Milestone
+2025-03-26 22:59:51,474 - __main__ - INFO - Scraping article: https://venturebeat.com/business/tensoropera-ai-and-samsung-electronics-showcase-the-future-of-generative-ai-on-mobile-devices/
+2025-03-26 22:59:51,661 - __main__ - INFO - Successfully scraped article: TensorOpera AI and Samsung Electronics Showcase the Future of Generative AI on Mobile Devices
+2025-03-26 22:59:54,698 - __main__ - INFO - Scraping article: https://venturebeat.com/ai/microsoft-infuses-enterprise-agents-with-deep-reasoning-unveils-data-analyst-agent-that-outsmarts-competitors/
+2025-03-26 22:59:54,981 - __main__ - INFO - Successfully scraped article: Microsoft infuses enterprise agents with deep reasoning, unveils data Analyst agent that outsmarts competitors
+2025-03-26 22:59:57,602 - __main__ - INFO - Scraping article: https://venturebeat.com/ai/beyond-transformers-nvidias-mambavision-aims-to-unlock-faster-cheaper-enterprise-computer-vision/
+2025-03-26 22:59:57,763 - __main__ - INFO - Successfully scraped article: Beyond transformers: Nvidia’s MambaVision aims to unlock faster, cheaper enterprise computer vision
+2025-03-26 22:59:59,425 - __main__ - INFO - Scraping article: https://venturebeat.com/ai/metascale-improves-llm-reasoning-with-adaptive-strategies/
+2025-03-26 22:59:59,613 - __main__ - INFO - Successfully scraped article: METASCALE improves LLM reasoning with adaptive strategies
+2025-03-26 23:00:03,093 - __main__ - INFO - Scraping article: https://venturebeat.com/ai/google-releases-most-intelligent-model-to-date-gemini-2-5-pro/
+2025-03-26 23:00:03,265 - __main__ - INFO - Successfully scraped article: Google releases ‘most intelligent model to date,’ Gemini 2.5 Pro
+2025-03-26 23:00:06,148 - __main__ - INFO - Scraping article: https://venturebeat.com/ai/insane-openai-introduces-gpt-4o-native-image-generation-and-its-already-wowing-users/
+2025-03-26 23:00:06,395 - __main__ - INFO - Successfully scraped article: ‘Insane’: OpenAI introduces GPT-4o native image generation and it’s already wowing users
+2025-03-26 23:00:08,312 - __main__ - INFO - Scraping article: https://venturebeat.com/business/powerful-medical-receives-fda-breakthrough-device-designation-for-pmcardio-stemi-ai-ecg-model/
+2025-03-26 23:00:08,496 - __main__ - INFO - Successfully scraped article: Powerful Medical Receives FDA Breakthrough Device Designation for PMcardio STEMI AI ECG Model
+2025-03-26 23:00:11,135 - __main__ - INFO - Scraping article: https://venturebeat.com/ai/the-new-best-ai-image-generation-model-is-here-say-hello-to-reve-image-1-0/
+2025-03-26 23:00:11,281 - __main__ - INFO - Successfully scraped article: The new best AI image generation model is here: say hello to Reve Image 1.0!
+2025-03-26 23:00:13,766 - __main__ - INFO - Scraping article: https://venturebeat.com/data-infrastructure/providing-consistent-reliable-customer-experiences-with-cqrs-at-scale/
+2025-03-26 23:00:13,901 - __main__ - INFO - Successfully scraped article: Providing consistent, reliable customer experiences with CQRS at scale
+2025-03-26 23:00:15,724 - __main__ - INFO - Scraping article: https://venturebeat.com/ai/beyond-transcription-how-agentic-ai-is-set-to-change-enterprise-meetings/
+2025-03-26 23:00:15,851 - __main__ - INFO - Successfully scraped article: Agentic AI is changing online meeting platforms: Moving from silent observer to active participant
+2025-03-26 23:00:15,851 - __main__ - INFO - Completed scraping from VentureBeat
+2025-03-26 23:00:15,854 - __main__ - INFO - Saved 25 articles to scraped_data/US_tech_news_20250326.json
+2025-03-26 23:00:15,854 - __main__ - INFO - Saved 25 articles so far
+2025-03-26 23:00:15,854 - __main__ - INFO - Processing source: Business Insider
+2025-03-26 23:00:15,854 - __main__ - INFO - Getting article links from Business Insider
+2025-03-26 23:00:16,078 - __main__ - INFO - Found 15 article links from Business Insider
+2025-03-26 23:00:18,027 - __main__ - INFO - Scraping article: https://www.businessinsider.com/coreweave-ipo-nvidia-gpu-hopper-problem-blackwell-ai-depreciation-2025-3
+2025-03-26 23:00:18,526 - __main__ - INFO - Successfully scraped article: CoreWeave is on the cusp of a huge IPO — but it could face an expensive hardware problem
+2025-03-26 23:00:18,526 - __main__ - WARNING - Failed to scrape article https://www.businessinsider.com/coreweave-ipo-nvidia-gpu-hopper-problem-blackwell-ai-depreciation-2025-3 on attempt 1
+2025-03-26 23:00:20,532 - __main__ - INFO - Scraping article: https://www.businessinsider.com/coreweave-ipo-nvidia-gpu-hopper-problem-blackwell-ai-depreciation-2025-3
+2025-03-26 23:00:20,715 - __main__ - INFO - Successfully scraped article: CoreWeave is on the cusp of a huge IPO — but it could face an expensive hardware problem
+2025-03-26 23:00:20,715 - __main__ - WARNING - Failed to scrape article https://www.businessinsider.com/coreweave-ipo-nvidia-gpu-hopper-problem-blackwell-ai-depreciation-2025-3 on attempt 2
+2025-03-26 23:00:23,720 - __main__ - INFO - Scraping article: https://www.businessinsider.com/coreweave-ipo-nvidia-gpu-hopper-problem-blackwell-ai-depreciation-2025-3
+2025-03-26 23:00:23,894 - __main__ - INFO - Successfully scraped article: CoreWeave is on the cusp of a huge IPO — but it could face an expensive hardware problem
+2025-03-26 23:00:23,895 - __main__ - WARNING - Failed to scrape article https://www.businessinsider.com/coreweave-ipo-nvidia-gpu-hopper-problem-blackwell-ai-depreciation-2025-3 on attempt 3
+2025-03-26 23:00:27,361 - __main__ - INFO - Scraping article: https://www.businessinsider.com/nvidia-partner-ddn-strategic-leap-nvidia-ai-infrastructure-2025-3
+2025-03-26 23:00:27,616 - __main__ - INFO - Successfully scraped article: Meet a decades-old software company hitching a ride on the Nvidia rocket ship
+2025-03-26 23:00:30,419 - __main__ - INFO - Scraping article: https://www.businessinsider.com/ex-meta-vp-raised-back-to-back-mega-funding-rounds-2025-3
+2025-03-26 23:00:31,026 - __main__ - INFO - Successfully scraped article: Ex-Meta VP is raising back-to-back mega funding rounds from the same investors who made a fortune when Google bought Wiz
+2025-03-26 23:00:31,026 - __main__ - WARNING - Failed to scrape article https://www.businessinsider.com/ex-meta-vp-raised-back-to-back-mega-funding-rounds-2025-3 on attempt 1
+2025-03-26 23:00:33,027 - __main__ - INFO - Scraping article: https://www.businessinsider.com/ex-meta-vp-raised-back-to-back-mega-funding-rounds-2025-3
+2025-03-26 23:00:33,321 - __main__ - INFO - Successfully scraped article: Ex-Meta VP is raising back-to-back mega funding rounds from the same investors who made a fortune when Google bought Wiz
+2025-03-26 23:00:33,322 - __main__ - WARNING - Failed to scrape article https://www.businessinsider.com/ex-meta-vp-raised-back-to-back-mega-funding-rounds-2025-3 on attempt 2
+2025-03-26 23:00:36,325 - __main__ - INFO - Scraping article: https://www.businessinsider.com/ex-meta-vp-raised-back-to-back-mega-funding-rounds-2025-3
+2025-03-26 23:00:36,501 - __main__ - INFO - Successfully scraped article: Ex-Meta VP is raising back-to-back mega funding rounds from the same investors who made a fortune when Google bought Wiz
+2025-03-26 23:00:36,501 - __main__ - WARNING - Failed to scrape article https://www.businessinsider.com/ex-meta-vp-raised-back-to-back-mega-funding-rounds-2025-3 on attempt 3
+2025-03-26 23:00:39,749 - __main__ - INFO - Scraping article: https://www.businessinsider.com/23andme-cofounder-linda-avey-company-lost-way-2025-3
+2025-03-26 23:00:40,248 - __main__ - INFO - Successfully scraped article: 23andMe cofounder says company 'lost its way' without 'proper governance'
+2025-03-26 23:00:42,092 - __main__ - INFO - Scraping article: https://www.businessinsider.com/google-smaller-pay-bumps-recent-all-hands-2025-3
+2025-03-26 23:00:42,348 - __main__ - INFO - Successfully scraped article: Googlers grilled leaders about smaller pay bumps in a recent all-hands
+2025-03-26 23:00:42,349 - __main__ - WARNING - Failed to scrape article https://www.businessinsider.com/google-smaller-pay-bumps-recent-all-hands-2025-3 on attempt 1
+2025-03-26 23:00:44,354 - __main__ - INFO - Scraping article: https://www.businessinsider.com/google-smaller-pay-bumps-recent-all-hands-2025-3
+2025-03-26 23:00:44,646 - __main__ - INFO - Successfully scraped article: Googlers grilled leaders about smaller pay bumps in a recent all-hands
+2025-03-26 23:00:44,647 - __main__ - WARNING - Failed to scrape article https://www.businessinsider.com/google-smaller-pay-bumps-recent-all-hands-2025-3 on attempt 2
+2025-03-26 23:00:47,651 - __main__ - INFO - Scraping article: https://www.businessinsider.com/google-smaller-pay-bumps-recent-all-hands-2025-3
+2025-03-26 23:00:47,891 - __main__ - INFO - Successfully scraped article: Googlers grilled leaders about smaller pay bumps in a recent all-hands
+2025-03-26 23:00:50,283 - __main__ - INFO - Scraping article: https://www.businessinsider.com/charlie-javice-trial-closings-one-word-will-play-starring-role-2025-3
+2025-03-26 23:00:50,751 - __main__ - INFO - Successfully scraped article: One word played a starring role in the closing arguments of Frank founder Charlie Javice's trial
+2025-03-26 23:00:50,751 - __main__ - WARNING - Failed to scrape article https://www.businessinsider.com/charlie-javice-trial-closings-one-word-will-play-starring-role-2025-3 on attempt 1
+2025-03-26 23:00:52,756 - __main__ - INFO - Scraping article: https://www.businessinsider.com/charlie-javice-trial-closings-one-word-will-play-starring-role-2025-3
+2025-03-26 23:00:53,013 - __main__ - INFO - Successfully scraped article: One word played a starring role in the closing arguments of Frank founder Charlie Javice's trial
+2025-03-26 23:00:53,013 - __main__ - WARNING - Failed to scrape article https://www.businessinsider.com/charlie-javice-trial-closings-one-word-will-play-starring-role-2025-3 on attempt 2
+2025-03-26 23:00:56,017 - __main__ - INFO - Scraping article: https://www.businessinsider.com/charlie-javice-trial-closings-one-word-will-play-starring-role-2025-3
+2025-03-26 23:00:56,245 - __main__ - INFO - Successfully scraped article: One word played a starring role in the closing arguments of Frank founder Charlie Javice's trial
+2025-03-26 23:00:56,245 - __main__ - WARNING - Failed to scrape article https://www.businessinsider.com/charlie-javice-trial-closings-one-word-will-play-starring-role-2025-3 on attempt 3
+2025-03-26 23:00:58,610 - __main__ - INFO - Scraping article: https://www.businessinsider.com/why-5g-failed-to-change-the-world-2025-3
+2025-03-26 23:00:58,832 - __main__ - INFO - Successfully scraped article: 5G internet was supposed to change the world. Here's why it fell flat.
+2025-03-26 23:00:58,832 - __main__ - WARNING - Failed to scrape article https://www.businessinsider.com/why-5g-failed-to-change-the-world-2025-3 on attempt 1
+2025-03-26 23:01:00,837 - __main__ - INFO - Scraping article: https://www.businessinsider.com/why-5g-failed-to-change-the-world-2025-3
+2025-03-26 23:01:01,493 - __main__ - INFO - Successfully scraped article: 5G internet was supposed to change the world. Here's why it fell flat.
+2025-03-26 23:01:01,494 - __main__ - WARNING - Failed to scrape article https://www.businessinsider.com/why-5g-failed-to-change-the-world-2025-3 on attempt 2
+2025-03-26 23:01:04,499 - __main__ - INFO - Scraping article: https://www.businessinsider.com/why-5g-failed-to-change-the-world-2025-3
+2025-03-26 23:01:04,817 - __main__ - INFO - Successfully scraped article: 5G internet was supposed to change the world. Here's why it fell flat.
+2025-03-26 23:01:06,460 - __main__ - INFO - Scraping article: https://www.businessinsider.com/bumble-ceo-whitney-wolfe-herd-inspired-walt-disney-2025-3
+2025-03-26 23:01:06,935 - __main__ - INFO - Successfully scraped article: Walt Disney had a surprising role in the creation of Bumble
+2025-03-26 23:01:06,935 - __main__ - WARNING - Failed to scrape article https://www.businessinsider.com/bumble-ceo-whitney-wolfe-herd-inspired-walt-disney-2025-3 on attempt 1
+2025-03-26 23:01:08,940 - __main__ - INFO - Scraping article: https://www.businessinsider.com/bumble-ceo-whitney-wolfe-herd-inspired-walt-disney-2025-3
+2025-03-26 23:01:09,135 - __main__ - INFO - Successfully scraped article: Walt Disney had a surprising role in the creation of Bumble
+2025-03-26 23:01:09,136 - __main__ - WARNING - Failed to scrape article https://www.businessinsider.com/bumble-ceo-whitney-wolfe-herd-inspired-walt-disney-2025-3 on attempt 2
+2025-03-26 23:01:12,141 - __main__ - INFO - Scraping article: https://www.businessinsider.com/bumble-ceo-whitney-wolfe-herd-inspired-walt-disney-2025-3
+2025-03-26 23:01:12,390 - __main__ - INFO - Successfully scraped article: Walt Disney had a surprising role in the creation of Bumble
+2025-03-26 23:01:12,390 - __main__ - WARNING - Failed to scrape article https://www.businessinsider.com/bumble-ceo-whitney-wolfe-herd-inspired-walt-disney-2025-3 on attempt 3
+2025-03-26 23:01:14,277 - __main__ - INFO - Scraping article: https://www.businessinsider.com/elon-musk-x-advertising-revenue-on-upswing-analys-estimates-2025-3
+2025-03-26 23:01:14,521 - __main__ - INFO - Successfully scraped article: New analyst forecast says X's advertising revenue is on the upswing, driven partly by 'fear'
+2025-03-26 23:01:14,521 - __main__ - WARNING - Failed to scrape article https://www.businessinsider.com/elon-musk-x-advertising-revenue-on-upswing-analys-estimates-2025-3 on attempt 1
+2025-03-26 23:01:16,526 - __main__ - INFO - Scraping article: https://www.businessinsider.com/elon-musk-x-advertising-revenue-on-upswing-analys-estimates-2025-3
+2025-03-26 23:01:16,773 - __main__ - INFO - Successfully scraped article: New analyst forecast says X's advertising revenue is on the upswing, driven partly by 'fear'
+2025-03-26 23:01:16,773 - __main__ - WARNING - Failed to scrape article https://www.businessinsider.com/elon-musk-x-advertising-revenue-on-upswing-analys-estimates-2025-3 on attempt 2
+2025-03-26 23:01:19,775 - __main__ - INFO - Scraping article: https://www.businessinsider.com/elon-musk-x-advertising-revenue-on-upswing-analys-estimates-2025-3
+2025-03-26 23:01:19,995 - __main__ - INFO - Successfully scraped article: New analyst forecast says X's advertising revenue is on the upswing, driven partly by 'fear'
+2025-03-26 23:01:19,995 - __main__ - WARNING - Failed to scrape article https://www.businessinsider.com/elon-musk-x-advertising-revenue-on-upswing-analys-estimates-2025-3 on attempt 3
+2025-03-26 23:01:21,825 - __main__ - INFO - Scraping article: https://www.businessinsider.com/sam-altman-good-tweet-twink-image-generator-2025-3
+2025-03-26 23:01:22,028 - __main__ - INFO - Successfully scraped article: Sam Altman did a good tweet
+2025-03-26 23:01:22,028 - __main__ - WARNING - Failed to scrape article https://www.businessinsider.com/sam-altman-good-tweet-twink-image-generator-2025-3 on attempt 1
+2025-03-26 23:01:24,032 - __main__ - INFO - Scraping article: https://www.businessinsider.com/sam-altman-good-tweet-twink-image-generator-2025-3
+2025-03-26 23:01:24,259 - __main__ - INFO - Successfully scraped article: Sam Altman did a good tweet
+2025-03-26 23:01:26,771 - __main__ - INFO - Scraping article: https://www.businessinsider.com/guides/tech/what-is-hdr-tv
+2025-03-26 23:01:27,050 - __main__ - INFO - Successfully scraped article: What is HDR for TVs? High-dynamic-range formats and benefits, explained
+2025-03-26 23:01:27,050 - __main__ - WARNING - Failed to scrape article https://www.businessinsider.com/guides/tech/what-is-hdr-tv on attempt 1
+2025-03-26 23:01:29,055 - __main__ - INFO - Scraping article: https://www.businessinsider.com/guides/tech/what-is-hdr-tv
+2025-03-26 23:01:29,262 - __main__ - INFO - Successfully scraped article: What is HDR for TVs? High-dynamic-range formats and benefits, explained
+2025-03-26 23:01:29,262 - __main__ - WARNING - Failed to scrape article https://www.businessinsider.com/guides/tech/what-is-hdr-tv on attempt 2
+2025-03-26 23:01:32,267 - __main__ - INFO - Scraping article: https://www.businessinsider.com/guides/tech/what-is-hdr-tv
+2025-03-26 23:01:32,490 - __main__ - INFO - Successfully scraped article: What is HDR for TVs? High-dynamic-range formats and benefits, explained
+2025-03-26 23:01:32,490 - __main__ - WARNING - Failed to scrape article https://www.businessinsider.com/guides/tech/what-is-hdr-tv on attempt 3
+2025-03-26 23:01:35,925 - __main__ - INFO - Scraping article: https://www.businessinsider.com/healthcare-startup-solace-raised-series-b-funding-menlo-ventures-2025-3
+2025-03-26 23:01:36,183 - __main__ - INFO - Successfully scraped article: Patient advocate startup Solace is set to be valued at over $300 million in new  funding round from Menlo Ventures
+2025-03-26 23:01:36,184 - __main__ - WARNING - Failed to scrape article https://www.businessinsider.com/healthcare-startup-solace-raised-series-b-funding-menlo-ventures-2025-3 on attempt 1
+2025-03-26 23:01:38,184 - __main__ - INFO - Scraping article: https://www.businessinsider.com/healthcare-startup-solace-raised-series-b-funding-menlo-ventures-2025-3
+2025-03-26 23:01:38,386 - __main__ - INFO - Successfully scraped article: Patient advocate startup Solace is set to be valued at over $300 million in new  funding round from Menlo Ventures
+2025-03-26 23:01:38,386 - __main__ - WARNING - Failed to scrape article https://www.businessinsider.com/healthcare-startup-solace-raised-series-b-funding-menlo-ventures-2025-3 on attempt 2
+2025-03-26 23:01:41,391 - __main__ - INFO - Scraping article: https://www.businessinsider.com/healthcare-startup-solace-raised-series-b-funding-menlo-ventures-2025-3
+2025-03-26 23:01:41,759 - __main__ - INFO - Successfully scraped article: Patient advocate startup Solace is set to be valued at over $300 million in new  funding round from Menlo Ventures
+2025-03-26 23:01:44,836 - __main__ - INFO - Scraping article: https://www.businessinsider.com/dell-employee-numbers-decline-by-25000-since-2023-rto-layoffs-2025-3
+2025-03-26 23:01:45,045 - __main__ - INFO - Successfully scraped article: Dell's staff numbers have dropped by 25,000 in just 2 years
+2025-03-26 23:01:45,045 - __main__ - WARNING - Failed to scrape article https://www.businessinsider.com/dell-employee-numbers-decline-by-25000-since-2023-rto-layoffs-2025-3 on attempt 1
+2025-03-26 23:01:47,050 - __main__ - INFO - Scraping article: https://www.businessinsider.com/dell-employee-numbers-decline-by-25000-since-2023-rto-layoffs-2025-3
+2025-03-26 23:01:47,271 - __main__ - INFO - Successfully scraped article: Dell's staff numbers have dropped by 25,000 in just 2 years
+2025-03-26 23:01:47,271 - __main__ - WARNING - Failed to scrape article https://www.businessinsider.com/dell-employee-numbers-decline-by-25000-since-2023-rto-layoffs-2025-3 on attempt 2
+2025-03-26 23:01:50,276 - __main__ - INFO - Scraping article: https://www.businessinsider.com/dell-employee-numbers-decline-by-25000-since-2023-rto-layoffs-2025-3
+2025-03-26 23:01:50,665 - __main__ - INFO - Successfully scraped article: Dell's staff numbers have dropped by 25,000 in just 2 years
+2025-03-26 23:01:50,665 - __main__ - WARNING - Failed to scrape article https://www.businessinsider.com/dell-employee-numbers-decline-by-25000-since-2023-rto-layoffs-2025-3 on attempt 3
+2025-03-26 23:01:52,536 - __main__ - INFO - Scraping article: https://www.businessinsider.com/youtubers-sam-colby-built-millions-apparel-business-revenue-details-2025-3
+2025-03-26 23:01:52,830 - __main__ - INFO - Successfully scraped article: How YouTube paranormal investigators Sam and Colby created a $20 million revenue empire
+2025-03-26 23:01:55,333 - __main__ - INFO - Scraping article: https://www.businessinsider.com/guides/tech/best-iphone-16e-cases
+2025-03-26 23:01:55,570 - __main__ - INFO - Successfully scraped article: The best iPhone 16e cases: Top picks for protecting your new phone
+2025-03-26 23:01:55,570 - __main__ - INFO - Completed scraping from Business Insider
+2025-03-26 23:01:55,573 - __main__ - INFO - Saved 33 articles to scraped_data/US_tech_news_20250326.json
+2025-03-26 23:01:55,573 - __main__ - INFO - Saved 33 articles so far
+2025-03-26 23:01:55,573 - __main__ - INFO - Processing source: MarketWatch
+2025-03-26 23:01:55,573 - __main__ - INFO - Getting article links from MarketWatch
+2025-03-26 23:01:55,954 - __main__ - INFO - Found 12 article links from MarketWatch
+2025-03-26 23:01:57,679 - __main__ - INFO - Scraping article: https://www.marketwatch.com/story/petco-anticipates-another-sales-drop-this-year-its-stock-is-up-anyway-e4e74308?mod=investing
+2025-03-26 23:01:57,922 - __main__ - INFO - Successfully scraped article: 
+2025-03-26 23:01:57,922 - __main__ - WARNING - Failed to scrape article https://www.marketwatch.com/story/petco-anticipates-another-sales-drop-this-year-its-stock-is-up-anyway-e4e74308?mod=investing on attempt 1
+2025-03-26 23:01:59,927 - __main__ - INFO - Scraping article: https://www.marketwatch.com/story/petco-anticipates-another-sales-drop-this-year-its-stock-is-up-anyway-e4e74308?mod=investing
+2025-03-26 23:02:00,174 - __main__ - INFO - Successfully scraped article: 
+2025-03-26 23:02:00,174 - __main__ - WARNING - Failed to scrape article https://www.marketwatch.com/story/petco-anticipates-another-sales-drop-this-year-its-stock-is-up-anyway-e4e74308?mod=investing on attempt 2
+2025-03-26 23:02:03,179 - __main__ - INFO - Scraping article: https://www.marketwatch.com/story/petco-anticipates-another-sales-drop-this-year-its-stock-is-up-anyway-e4e74308?mod=investing
+2025-03-26 23:02:03,492 - __main__ - INFO - Successfully scraped article: 
+2025-03-26 23:02:03,492 - __main__ - WARNING - Failed to scrape article https://www.marketwatch.com/story/petco-anticipates-another-sales-drop-this-year-its-stock-is-up-anyway-e4e74308?mod=investing on attempt 3
+2025-03-26 23:02:05,363 - __main__ - INFO - Scraping article: https://www.marketwatch.com/story/dollar-tree-stock-jumps-on-family-dollar-sale-q4-earnings-and-revenue-beat-e2313bc8?mod=investing
+2025-03-26 23:02:05,859 - __main__ - INFO - Successfully scraped article: 
+2025-03-26 23:02:05,859 - __main__ - WARNING - Failed to scrape article https://www.marketwatch.com/story/dollar-tree-stock-jumps-on-family-dollar-sale-q4-earnings-and-revenue-beat-e2313bc8?mod=investing on attempt 1
+2025-03-26 23:02:07,864 - __main__ - INFO - Scraping article: https://www.marketwatch.com/story/dollar-tree-stock-jumps-on-family-dollar-sale-q4-earnings-and-revenue-beat-e2313bc8?mod=investing
+2025-03-26 23:02:08,274 - __main__ - INFO - Successfully scraped article: 
+2025-03-26 23:02:08,274 - __main__ - WARNING - Failed to scrape article https://www.marketwatch.com/story/dollar-tree-stock-jumps-on-family-dollar-sale-q4-earnings-and-revenue-beat-e2313bc8?mod=investing on attempt 2
+2025-03-26 23:02:11,275 - __main__ - INFO - Scraping article: https://www.marketwatch.com/story/dollar-tree-stock-jumps-on-family-dollar-sale-q4-earnings-and-revenue-beat-e2313bc8?mod=investing
+2025-03-26 23:02:11,498 - __main__ - INFO - Successfully scraped article: 
+2025-03-26 23:02:11,498 - __main__ - WARNING - Failed to scrape article https://www.marketwatch.com/story/dollar-tree-stock-jumps-on-family-dollar-sale-q4-earnings-and-revenue-beat-e2313bc8?mod=investing on attempt 3
+2025-03-26 23:02:14,504 - __main__ - INFO - Scraping article: https://www.marketwatch.com/story/investors-may-feel-like-chasing-bitcoin-higher-this-spring-here-are-this-years-unique-dangers-523f30b9?mod=investing
+2025-03-26 23:02:14,829 - __main__ - INFO - Successfully scraped article: 
+2025-03-26 23:02:14,829 - __main__ - WARNING - Failed to scrape article https://www.marketwatch.com/story/investors-may-feel-like-chasing-bitcoin-higher-this-spring-here-are-this-years-unique-dangers-523f30b9?mod=investing on attempt 1
+2025-03-26 23:02:16,834 - __main__ - INFO - Scraping article: https://www.marketwatch.com/story/investors-may-feel-like-chasing-bitcoin-higher-this-spring-here-are-this-years-unique-dangers-523f30b9?mod=investing
+2025-03-26 23:02:17,633 - __main__ - INFO - Successfully scraped article: 
+2025-03-26 23:02:17,634 - __main__ - WARNING - Failed to scrape article https://www.marketwatch.com/story/investors-may-feel-like-chasing-bitcoin-higher-this-spring-here-are-this-years-unique-dangers-523f30b9?mod=investing on attempt 2
+2025-03-26 23:02:20,639 - __main__ - INFO - Scraping article: https://www.marketwatch.com/story/investors-may-feel-like-chasing-bitcoin-higher-this-spring-here-are-this-years-unique-dangers-523f30b9?mod=investing
+2025-03-26 23:02:20,958 - __main__ - INFO - Successfully scraped article: 
+2025-03-26 23:02:20,958 - __main__ - WARNING - Failed to scrape article https://www.marketwatch.com/story/investors-may-feel-like-chasing-bitcoin-higher-this-spring-here-are-this-years-unique-dangers-523f30b9?mod=investing on attempt 3
+2025-03-26 23:02:23,455 - __main__ - INFO - Scraping article: https://www.marketwatch.com/story/software-stocks-have-sold-off-on-doge-fears-and-more-is-it-time-to-get-back-into-the-sector-6cbb05f7?mod=investing
+2025-03-26 23:02:24,708 - __main__ - INFO - Successfully scraped article: 
+2025-03-26 23:02:24,708 - __main__ - WARNING - Failed to scrape article https://www.marketwatch.com/story/software-stocks-have-sold-off-on-doge-fears-and-more-is-it-time-to-get-back-into-the-sector-6cbb05f7?mod=investing on attempt 1
+2025-03-26 23:02:26,713 - __main__ - INFO - Scraping article: https://www.marketwatch.com/story/software-stocks-have-sold-off-on-doge-fears-and-more-is-it-time-to-get-back-into-the-sector-6cbb05f7?mod=investing
+2025-03-26 23:02:26,939 - __main__ - INFO - Successfully scraped article: 
+2025-03-26 23:02:26,940 - __main__ - WARNING - Failed to scrape article https://www.marketwatch.com/story/software-stocks-have-sold-off-on-doge-fears-and-more-is-it-time-to-get-back-into-the-sector-6cbb05f7?mod=investing on attempt 2
+2025-03-26 23:02:29,945 - __main__ - INFO - Scraping article: https://www.marketwatch.com/story/software-stocks-have-sold-off-on-doge-fears-and-more-is-it-time-to-get-back-into-the-sector-6cbb05f7?mod=investing
+2025-03-26 23:02:30,240 - __main__ - INFO - Successfully scraped article: 
+2025-03-26 23:02:30,240 - __main__ - WARNING - Failed to scrape article https://www.marketwatch.com/story/software-stocks-have-sold-off-on-doge-fears-and-more-is-it-time-to-get-back-into-the-sector-6cbb05f7?mod=investing on attempt 3
+2025-03-26 23:02:32,449 - __main__ - INFO - Scraping article: https://www.marketwatch.com/story/why-gamestop-is-trying-to-be-the-next-microstrategy-with-its-bitcoin-move-15418d00?mod=investing
+2025-03-26 23:02:32,797 - __main__ - INFO - Successfully scraped article: 
+2025-03-26 23:02:32,798 - __main__ - WARNING - Failed to scrape article https://www.marketwatch.com/story/why-gamestop-is-trying-to-be-the-next-microstrategy-with-its-bitcoin-move-15418d00?mod=investing on attempt 1
+2025-03-26 23:02:34,803 - __main__ - INFO - Scraping article: https://www.marketwatch.com/story/why-gamestop-is-trying-to-be-the-next-microstrategy-with-its-bitcoin-move-15418d00?mod=investing
+2025-03-26 23:02:35,148 - __main__ - INFO - Successfully scraped article: 
+2025-03-26 23:02:35,148 - __main__ - WARNING - Failed to scrape article https://www.marketwatch.com/story/why-gamestop-is-trying-to-be-the-next-microstrategy-with-its-bitcoin-move-15418d00?mod=investing on attempt 2
+2025-03-26 23:02:38,153 - __main__ - INFO - Scraping article: https://www.marketwatch.com/story/why-gamestop-is-trying-to-be-the-next-microstrategy-with-its-bitcoin-move-15418d00?mod=investing
+2025-03-26 23:02:38,464 - __main__ - INFO - Successfully scraped article: 
+2025-03-26 23:02:38,465 - __main__ - WARNING - Failed to scrape article https://www.marketwatch.com/story/why-gamestop-is-trying-to-be-the-next-microstrategy-with-its-bitcoin-move-15418d00?mod=investing on attempt 3
+2025-03-26 23:02:40,467 - __main__ - INFO - Scraping article: https://www.marketwatch.com/story/these-currencies-stand-to-lose-the-most-from-trumps-tariff-threats-and-other-countries-countermoves-898b0735?mod=investing
+2025-03-26 23:02:40,820 - __main__ - INFO - Successfully scraped article: 
+2025-03-26 23:02:40,820 - __main__ - WARNING - Failed to scrape article https://www.marketwatch.com/story/these-currencies-stand-to-lose-the-most-from-trumps-tariff-threats-and-other-countries-countermoves-898b0735?mod=investing on attempt 1
+2025-03-26 23:02:42,825 - __main__ - INFO - Scraping article: https://www.marketwatch.com/story/these-currencies-stand-to-lose-the-most-from-trumps-tariff-threats-and-other-countries-countermoves-898b0735?mod=investing
+2025-03-26 23:02:43,109 - __main__ - INFO - Successfully scraped article: 
+2025-03-26 23:02:43,109 - __main__ - WARNING - Failed to scrape article https://www.marketwatch.com/story/these-currencies-stand-to-lose-the-most-from-trumps-tariff-threats-and-other-countries-countermoves-898b0735?mod=investing on attempt 2
+2025-03-26 23:02:46,115 - __main__ - INFO - Scraping article: https://www.marketwatch.com/story/these-currencies-stand-to-lose-the-most-from-trumps-tariff-threats-and-other-countries-countermoves-898b0735?mod=investing
+2025-03-26 23:02:47,392 - __main__ - INFO - Successfully scraped article: 
+2025-03-26 23:02:47,392 - __main__ - WARNING - Failed to scrape article https://www.marketwatch.com/story/these-currencies-stand-to-lose-the-most-from-trumps-tariff-threats-and-other-countries-countermoves-898b0735?mod=investing on attempt 3
+2025-03-26 23:02:49,212 - __main__ - INFO - Scraping article: https://www.marketwatch.com/story/nvidia-and-other-chip-stocks-slide-as-investors-see-big-risks-to-sales-to-china-c0e9f2d6?mod=investing
+2025-03-26 23:02:49,588 - __main__ - INFO - Successfully scraped article: 
+2025-03-26 23:02:49,588 - __main__ - WARNING - Failed to scrape article https://www.marketwatch.com/story/nvidia-and-other-chip-stocks-slide-as-investors-see-big-risks-to-sales-to-china-c0e9f2d6?mod=investing on attempt 1
+2025-03-26 23:02:51,593 - __main__ - INFO - Scraping article: https://www.marketwatch.com/story/nvidia-and-other-chip-stocks-slide-as-investors-see-big-risks-to-sales-to-china-c0e9f2d6?mod=investing
+2025-03-26 23:02:51,852 - __main__ - INFO - Successfully scraped article: 
+2025-03-26 23:02:51,852 - __main__ - WARNING - Failed to scrape article https://www.marketwatch.com/story/nvidia-and-other-chip-stocks-slide-as-investors-see-big-risks-to-sales-to-china-c0e9f2d6?mod=investing on attempt 2
+2025-03-26 23:02:54,857 - __main__ - INFO - Scraping article: https://www.marketwatch.com/story/nvidia-and-other-chip-stocks-slide-as-investors-see-big-risks-to-sales-to-china-c0e9f2d6?mod=investing
+2025-03-26 23:02:55,097 - __main__ - INFO - Successfully scraped article: 
+2025-03-26 23:02:55,097 - __main__ - WARNING - Failed to scrape article https://www.marketwatch.com/story/nvidia-and-other-chip-stocks-slide-as-investors-see-big-risks-to-sales-to-china-c0e9f2d6?mod=investing on attempt 3
+2025-03-26 23:02:57,685 - __main__ - INFO - Scraping article: https://www.marketwatch.com/story/why-the-stock-market-could-be-setting-up-to-rally-in-the-first-half-of-april-a46d961d?mod=investing
+2025-03-26 23:02:57,920 - __main__ - INFO - Successfully scraped article: 
+2025-03-26 23:02:57,920 - __main__ - WARNING - Failed to scrape article https://www.marketwatch.com/story/why-the-stock-market-could-be-setting-up-to-rally-in-the-first-half-of-april-a46d961d?mod=investing on attempt 1
+2025-03-26 23:02:59,926 - __main__ - INFO - Scraping article: https://www.marketwatch.com/story/why-the-stock-market-could-be-setting-up-to-rally-in-the-first-half-of-april-a46d961d?mod=investing
+2025-03-26 23:03:00,230 - __main__ - INFO - Successfully scraped article: 
+2025-03-26 23:03:00,230 - __main__ - WARNING - Failed to scrape article https://www.marketwatch.com/story/why-the-stock-market-could-be-setting-up-to-rally-in-the-first-half-of-april-a46d961d?mod=investing on attempt 2
+2025-03-26 23:03:03,235 - __main__ - INFO - Scraping article: https://www.marketwatch.com/story/why-the-stock-market-could-be-setting-up-to-rally-in-the-first-half-of-april-a46d961d?mod=investing
+2025-03-26 23:03:03,480 - __main__ - INFO - Successfully scraped article: 
+2025-03-26 23:03:03,480 - __main__ - WARNING - Failed to scrape article https://www.marketwatch.com/story/why-the-stock-market-could-be-setting-up-to-rally-in-the-first-half-of-april-a46d961d?mod=investing on attempt 3
+2025-03-26 23:03:06,211 - __main__ - INFO - Scraping article: https://www.marketwatch.com/story/if-you-love-dividend-stocks-check-out-these-11-companies-with-room-to-boost-their-hefty-payouts-e09eae3e?mod=investing
+2025-03-26 23:03:06,485 - __main__ - INFO - Successfully scraped article: 
+2025-03-26 23:03:06,485 - __main__ - WARNING - Failed to scrape article https://www.marketwatch.com/story/if-you-love-dividend-stocks-check-out-these-11-companies-with-room-to-boost-their-hefty-payouts-e09eae3e?mod=investing on attempt 1
+2025-03-26 23:03:08,490 - __main__ - INFO - Scraping article: https://www.marketwatch.com/story/if-you-love-dividend-stocks-check-out-these-11-companies-with-room-to-boost-their-hefty-payouts-e09eae3e?mod=investing
+2025-03-26 23:03:08,728 - __main__ - INFO - Successfully scraped article: 
+2025-03-26 23:03:08,728 - __main__ - WARNING - Failed to scrape article https://www.marketwatch.com/story/if-you-love-dividend-stocks-check-out-these-11-companies-with-room-to-boost-their-hefty-payouts-e09eae3e?mod=investing on attempt 2
+2025-03-26 23:03:11,733 - __main__ - INFO - Scraping article: https://www.marketwatch.com/story/if-you-love-dividend-stocks-check-out-these-11-companies-with-room-to-boost-their-hefty-payouts-e09eae3e?mod=investing
+2025-03-26 23:03:11,966 - __main__ - INFO - Successfully scraped article: 
+2025-03-26 23:03:11,966 - __main__ - WARNING - Failed to scrape article https://www.marketwatch.com/story/if-you-love-dividend-stocks-check-out-these-11-companies-with-room-to-boost-their-hefty-payouts-e09eae3e?mod=investing on attempt 3
+2025-03-26 23:03:15,434 - __main__ - INFO - Scraping article: https://www.marketwatch.com/story/chewy-blows-past-earnings-estimates-sending-stock-higher-a06dadc5?mod=investing
+2025-03-26 23:03:15,676 - __main__ - INFO - Successfully scraped article: 
+2025-03-26 23:03:15,677 - __main__ - WARNING - Failed to scrape article https://www.marketwatch.com/story/chewy-blows-past-earnings-estimates-sending-stock-higher-a06dadc5?mod=investing on attempt 1
+2025-03-26 23:03:17,682 - __main__ - INFO - Scraping article: https://www.marketwatch.com/story/chewy-blows-past-earnings-estimates-sending-stock-higher-a06dadc5?mod=investing
+2025-03-26 23:03:17,933 - __main__ - INFO - Successfully scraped article: 
+2025-03-26 23:03:17,933 - __main__ - WARNING - Failed to scrape article https://www.marketwatch.com/story/chewy-blows-past-earnings-estimates-sending-stock-higher-a06dadc5?mod=investing on attempt 2
+2025-03-26 23:03:20,938 - __main__ - INFO - Scraping article: https://www.marketwatch.com/story/chewy-blows-past-earnings-estimates-sending-stock-higher-a06dadc5?mod=investing
+2025-03-26 23:03:21,170 - __main__ - INFO - Successfully scraped article: 
+2025-03-26 23:03:21,171 - __main__ - WARNING - Failed to scrape article https://www.marketwatch.com/story/chewy-blows-past-earnings-estimates-sending-stock-higher-a06dadc5?mod=investing on attempt 3
+2025-03-26 23:03:23,601 - __main__ - INFO - Scraping article: https://www.marketwatch.com/story/japan-offering-y700-0b-of-2-2-40-year-govt-bonds-92d25909?mod=investing
+2025-03-26 23:03:23,832 - __main__ - INFO - Successfully scraped article: 
+2025-03-26 23:03:23,832 - __main__ - WARNING - Failed to scrape article https://www.marketwatch.com/story/japan-offering-y700-0b-of-2-2-40-year-govt-bonds-92d25909?mod=investing on attempt 1
+2025-03-26 23:03:25,837 - __main__ - INFO - Scraping article: https://www.marketwatch.com/story/japan-offering-y700-0b-of-2-2-40-year-govt-bonds-92d25909?mod=investing
+2025-03-26 23:03:26,067 - __main__ - INFO - Successfully scraped article: 
+2025-03-26 23:03:26,067 - __main__ - WARNING - Failed to scrape article https://www.marketwatch.com/story/japan-offering-y700-0b-of-2-2-40-year-govt-bonds-92d25909?mod=investing on attempt 2
+2025-03-26 23:03:29,072 - __main__ - INFO - Scraping article: https://www.marketwatch.com/story/japan-offering-y700-0b-of-2-2-40-year-govt-bonds-92d25909?mod=investing
+2025-03-26 23:03:29,413 - __main__ - INFO - Successfully scraped article: 
+2025-03-26 23:03:29,413 - __main__ - WARNING - Failed to scrape article https://www.marketwatch.com/story/japan-offering-y700-0b-of-2-2-40-year-govt-bonds-92d25909?mod=investing on attempt 3
+2025-03-26 23:03:32,209 - __main__ - INFO - Scraping article: https://www.marketwatch.com/story/tianqi-lithium-swung-to-net-loss-in-2024-on-lower-lithium-products-prices-11d258cb?mod=investing
+2025-03-26 23:03:32,436 - __main__ - INFO - Successfully scraped article: 
+2025-03-26 23:03:32,436 - __main__ - WARNING - Failed to scrape article https://www.marketwatch.com/story/tianqi-lithium-swung-to-net-loss-in-2024-on-lower-lithium-products-prices-11d258cb?mod=investing on attempt 1
+2025-03-26 23:03:34,441 - __main__ - INFO - Scraping article: https://www.marketwatch.com/story/tianqi-lithium-swung-to-net-loss-in-2024-on-lower-lithium-products-prices-11d258cb?mod=investing
+2025-03-26 23:03:34,660 - __main__ - INFO - Successfully scraped article: 
+2025-03-26 23:03:34,660 - __main__ - WARNING - Failed to scrape article https://www.marketwatch.com/story/tianqi-lithium-swung-to-net-loss-in-2024-on-lower-lithium-products-prices-11d258cb?mod=investing on attempt 2
+2025-03-26 23:03:37,665 - __main__ - INFO - Scraping article: https://www.marketwatch.com/story/tianqi-lithium-swung-to-net-loss-in-2024-on-lower-lithium-products-prices-11d258cb?mod=investing
+2025-03-26 23:03:37,909 - __main__ - INFO - Successfully scraped article: 
+2025-03-26 23:03:37,909 - __main__ - WARNING - Failed to scrape article https://www.marketwatch.com/story/tianqi-lithium-swung-to-net-loss-in-2024-on-lower-lithium-products-prices-11d258cb?mod=investing on attempt 3
+2025-03-26 23:03:37,909 - __main__ - INFO - Completed scraping from MarketWatch
+2025-03-26 23:03:37,914 - __main__ - INFO - Saved 33 articles to scraped_data/US_tech_news_20250326.json
+2025-03-26 23:03:37,914 - __main__ - INFO - Saved 33 articles so far
+2025-03-26 23:03:37,916 - __main__ - INFO - Saved 33 articles to scraped_data/US_tech_news_20250326.json
+2025-03-26 23:03:37,916 - __main__ - INFO - Scraping completed. Total articles: 33
+2025-03-26 23:03:37,917 - __main__ - INFO - Generated report saved to scraped_data/US_tech_news_20250326_report.json
+2025-03-26 23:13:09,661 - __main__ - INFO - Processing source: CNBC
+2025-03-26 23:13:09,662 - __main__ - INFO - Getting article links from CNBC
+2025-03-26 23:13:10,009 - __main__ - INFO - Found 11 article links from CNBC
+2025-03-26 23:13:13,206 - __main__ - INFO - Scraping article: https://www.cnbc.com/2025/03/27/alibaba-launches-open-source-ai-model-for-cost-effective-ai-agents.html
+2025-03-26 23:13:13,465 - __main__ - INFO - Successfully scraped article: Alibaba launches new open-source AI model for 'cost-effective AI agents'
+2025-03-26 23:13:13,466 - __main__ - INFO - Saved article to US_tech_news_20250326/articles/alibaba-launches-new-open-source-ai-model-for-cost-20250326231313.json
+2025-03-26 23:13:13,466 - __main__ - ERROR - OpenAI API error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-03-26 23:13:16,299 - __main__ - INFO - Scraping article: https://www.cnbc.com/2025/03/26/trump-says-tesla-ceo-elon-musk-didnt-advise-on-auto-tariffs-despite-doge-role.html
+2025-03-26 23:13:16,551 - __main__ - INFO - Successfully scraped article: Trump says Tesla CEO Elon Musk didn’t advise on auto tariffs 'because he may have a conflict'
+2025-03-26 23:13:16,552 - __main__ - INFO - Saved article to US_tech_news_20250326/articles/trump-says-tesla-ceo-elon-musk-didnt-advise-on-aut-20250326231316.json
+2025-03-26 23:13:16,552 - __main__ - ERROR - OpenAI API error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-03-26 23:13:18,182 - __main__ - INFO - Scraping article: https://www.cnbc.com/2025/03/26/trump-says-he-may-reduce-china-tariffs-to-help-close-a-tiktok-deal.html
+2025-03-26 23:13:18,407 - __main__ - INFO - Successfully scraped article: Trump says he may reduce China tariffs to help close a TikTok deal
+2025-03-26 23:13:18,408 - __main__ - INFO - Saved article to US_tech_news_20250326/articles/trump-says-he-may-reduce-china-tariffs-to-help-clo-20250326231318.json
+2025-03-26 23:13:18,408 - __main__ - ERROR - OpenAI API error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-03-26 23:13:20,034 - __main__ - INFO - Scraping article: https://www.cnbc.com/2025/03/26/former-intel-ceo-pat-gelsinger-joins-venture-firm-playground-global.html
+2025-03-26 23:13:20,289 - __main__ - INFO - Successfully scraped article: Former Intel CEO Pat Gelsinger jumps to venture capital, joins Playground Global
+2025-03-26 23:13:20,290 - __main__ - INFO - Saved article to US_tech_news_20250326/articles/former-intel-ceo-pat-gelsinger-jumps-to-venture-ca-20250326231320.json
+2025-03-26 23:13:20,290 - __main__ - ERROR - OpenAI API error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-03-26 23:14:15,379 - __main__ - INFO - Processing source: CNBC
+2025-03-26 23:14:15,380 - __main__ - INFO - Getting article links from CNBC
+2025-03-26 23:14:16,134 - __main__ - INFO - Found 11 article links from CNBC
+2025-03-26 23:14:18,204 - __main__ - INFO - Scraping article: https://www.cnbc.com/2025/03/27/alibaba-launches-open-source-ai-model-for-cost-effective-ai-agents.html
+2025-03-26 23:14:18,425 - __main__ - INFO - Successfully scraped article: Alibaba launches new open-source AI model for 'cost-effective AI agents'
+2025-03-26 23:14:18,425 - __main__ - INFO - Saved article to US_tech_news_20250326/articles/alibaba-launches-new-open-source-ai-model-for-cost-20250326231418.json
+2025-03-26 23:14:21,021 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-26 23:14:21,030 - __main__ - INFO - Generated summary for article: Alibaba launches new open-source AI model for 'cost-effective AI agents'
+2025-03-26 23:14:21,031 - __main__ - INFO - Saved summary to US_tech_news_20250326/summaries/alibaba-launches-new-open-source-ai-model-for-cost-20250326231418_summary.json
+2025-03-26 23:14:22,724 - __main__ - INFO - Scraping article: https://www.cnbc.com/2025/03/26/trump-says-tesla-ceo-elon-musk-didnt-advise-on-auto-tariffs-despite-doge-role.html
+2025-03-26 23:14:22,990 - __main__ - INFO - Successfully scraped article: Trump says Tesla CEO Elon Musk didn’t advise on auto tariffs 'because he may have a conflict'
+2025-03-26 23:14:22,991 - __main__ - INFO - Saved article to US_tech_news_20250326/articles/trump-says-tesla-ceo-elon-musk-didnt-advise-on-aut-20250326231422.json
+2025-03-26 23:14:24,920 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-26 23:14:24,925 - __main__ - INFO - Generated summary for article: Trump says Tesla CEO Elon Musk didn’t advise on auto tariffs 'because he may have a conflict'
+2025-03-26 23:14:24,926 - __main__ - INFO - Saved summary to US_tech_news_20250326/summaries/trump-says-tesla-ceo-elon-musk-didnt-advise-on-aut-20250326231422_summary.json
+2025-03-26 23:14:28,405 - __main__ - INFO - Scraping article: https://www.cnbc.com/2025/03/26/trump-says-he-may-reduce-china-tariffs-to-help-close-a-tiktok-deal.html
+2025-03-26 23:14:28,684 - __main__ - INFO - Successfully scraped article: Trump says he may reduce China tariffs to help close a TikTok deal
+2025-03-26 23:14:28,684 - __main__ - INFO - Saved article to US_tech_news_20250326/articles/trump-says-he-may-reduce-china-tariffs-to-help-clo-20250326231428.json
+2025-03-26 23:14:29,928 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-26 23:14:29,932 - __main__ - INFO - Generated summary for article: Trump says he may reduce China tariffs to help close a TikTok deal
+2025-03-26 23:14:29,941 - __main__ - INFO - Saved summary to US_tech_news_20250326/summaries/trump-says-he-may-reduce-china-tariffs-to-help-clo-20250326231428_summary.json
+2025-03-26 23:14:32,691 - __main__ - INFO - Scraping article: https://www.cnbc.com/2025/03/26/former-intel-ceo-pat-gelsinger-joins-venture-firm-playground-global.html
+2025-03-26 23:14:32,935 - __main__ - INFO - Successfully scraped article: Former Intel CEO Pat Gelsinger jumps to venture capital, joins Playground Global
+2025-03-26 23:14:32,936 - __main__ - INFO - Saved article to US_tech_news_20250326/articles/former-intel-ceo-pat-gelsinger-jumps-to-venture-ca-20250326231432.json
+2025-03-26 23:14:34,229 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-26 23:14:34,231 - __main__ - INFO - Generated summary for article: Former Intel CEO Pat Gelsinger jumps to venture capital, joins Playground Global
+2025-03-26 23:14:34,232 - __main__ - INFO - Saved summary to US_tech_news_20250326/summaries/former-intel-ceo-pat-gelsinger-jumps-to-venture-ca-20250326231432_summary.json
+2025-03-26 23:14:37,267 - __main__ - INFO - Scraping article: https://www.cnbc.com/2025/03/26/utah-adopts-child-safety-law-requiring-apple-google-to-verify-user-ages.html
+2025-03-26 23:14:37,504 - __main__ - INFO - Successfully scraped article: Utah governor signs online child safety law requiring Apple, Google to verify user ages
+2025-03-26 23:14:37,505 - __main__ - INFO - Saved article to US_tech_news_20250326/articles/utah-governor-signs-online-child-safety-law-requir-20250326231437.json
+2025-03-26 23:14:38,938 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-26 23:14:38,940 - __main__ - INFO - Generated summary for article: Utah governor signs online child safety law requiring Apple, Google to verify user ages
+2025-03-26 23:14:38,941 - __main__ - INFO - Saved summary to US_tech_news_20250326/summaries/utah-governor-signs-online-child-safety-law-requir-20250326231437_summary.json
+2025-03-26 23:14:42,341 - __main__ - INFO - Scraping article: https://www.cnbc.com/2025/03/26/23andme-co-founder-lashes-out-at-ceo-wojcicki-after-bankruptcy-filing.html
+2025-03-26 23:14:42,585 - __main__ - INFO - Successfully scraped article: 23andMe co-founder lashes out at CEO Wojcicki after bankruptcy filing, says board lacked oversight
+2025-03-26 23:14:42,586 - __main__ - INFO - Saved article to US_tech_news_20250326/articles/23andme-co-founder-lashes-out-at-ceo-wojcicki-afte-20250326231442.json
+2025-03-26 23:14:44,058 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-26 23:14:44,060 - __main__ - INFO - Generated summary for article: 23andMe co-founder lashes out at CEO Wojcicki after bankruptcy filing, says board lacked oversight
+2025-03-26 23:14:44,061 - __main__ - INFO - Saved summary to US_tech_news_20250326/summaries/23andme-co-founder-lashes-out-at-ceo-wojcicki-afte-20250326231442_summary.json
+2025-03-26 23:14:46,449 - __main__ - INFO - Scraping article: https://www.cnbc.com/2025/03/26/the-concern-with-coreweaves-250000-nvidia-chips-ahead-of-its-ipo.html
+2025-03-26 23:14:46,675 - __main__ - INFO - Successfully scraped article: The concern with CoreWeave’s 250,000 Nvidia chips ahead of its IPO
+2025-03-26 23:14:46,676 - __main__ - INFO - Saved article to US_tech_news_20250326/articles/the-concern-with-coreweaves-250000-nvidia-chips-ah-20250326231446.json
+2025-03-26 23:14:47,948 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-26 23:14:47,949 - __main__ - INFO - Generated summary for article: The concern with CoreWeave’s 250,000 Nvidia chips ahead of its IPO
+2025-03-26 23:14:47,949 - __main__ - INFO - Saved summary to US_tech_news_20250326/summaries/the-concern-with-coreweaves-250000-nvidia-chips-ah-20250326231446_summary.json
+2025-03-26 23:14:49,643 - __main__ - INFO - Scraping article: https://www.cnbc.com/technology/
+2025-03-26 23:14:50,635 - __main__ - INFO - Successfully scraped article: Tech
+2025-03-26 23:14:50,635 - __main__ - WARNING - Failed to scrape article https://www.cnbc.com/technology/ on attempt 1
+2025-03-26 23:14:52,641 - __main__ - INFO - Scraping article: https://www.cnbc.com/technology/
+2025-03-26 23:14:53,067 - __main__ - INFO - Successfully scraped article: Tech
+2025-03-26 23:14:53,068 - __main__ - WARNING - Failed to scrape article https://www.cnbc.com/technology/ on attempt 2
+2025-03-26 23:14:56,073 - __main__ - INFO - Scraping article: https://www.cnbc.com/technology/
+2025-03-26 23:14:56,476 - __main__ - INFO - Successfully scraped article: Tech
+2025-03-26 23:14:56,476 - __main__ - WARNING - Failed to scrape article https://www.cnbc.com/technology/ on attempt 3
+2025-03-26 23:14:58,183 - __main__ - INFO - Scraping article: https://www.cnbc.com/2025/03/26/us-blacklists-50-chinese-companies-in-bid-to-curb-beijings-ai-chip-capabilities.html
+2025-03-26 23:14:58,443 - __main__ - INFO - Successfully scraped article: U.S. blacklists over 50 Chinese companies in bid to curb Beijing's AI, chip capabilities
+2025-03-26 23:14:58,444 - __main__ - INFO - Saved article to US_tech_news_20250326/articles/us-blacklists-over-50-chinese-companies-in-bid-to--20250326231458.json
+2025-03-26 23:15:00,443 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-26 23:15:00,445 - __main__ - INFO - Generated summary for article: U.S. blacklists over 50 Chinese companies in bid to curb Beijing's AI, chip capabilities
+2025-03-26 23:15:00,446 - __main__ - INFO - Saved summary to US_tech_news_20250326/summaries/us-blacklists-over-50-chinese-companies-in-bid-to--20250326231458_summary.json
+2025-03-26 23:15:03,028 - __main__ - INFO - Scraping article: https://www.cnbc.com/2025/03/25/amazon-testing-shopping-health-assistants-pushes-into-generative-ai.html
+2025-03-26 23:15:04,877 - __main__ - INFO - Successfully scraped article: Amazon is testing shopping, health assistants as it pushes deeper into generative AI
+2025-03-26 23:15:04,877 - __main__ - INFO - Saved article to US_tech_news_20250326/articles/amazon-is-testing-shopping-health-assistants-as-it-20250326231504.json
+2025-03-26 23:15:06,042 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-26 23:15:06,053 - __main__ - INFO - Generated summary for article: Amazon is testing shopping, health assistants as it pushes deeper into generative AI
+2025-03-26 23:15:06,054 - __main__ - INFO - Saved summary to US_tech_news_20250326/summaries/amazon-is-testing-shopping-health-assistants-as-it-20250326231504_summary.json
+2025-03-26 23:15:08,561 - __main__ - INFO - Scraping article: https://www.cnbc.com/2025/03/25/how-to-delete-23andme-genetic-data.html
+2025-03-26 23:15:09,525 - __main__ - INFO - Successfully scraped article: With 23andMe entering bankruptcy, here's how to delete your genetic data
+2025-03-26 23:15:09,526 - __main__ - INFO - Saved article to US_tech_news_20250326/articles/with-23andme-entering-bankruptcy-heres-how-to-dele-20250326231509.json
+2025-03-26 23:15:10,625 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-26 23:15:10,628 - __main__ - INFO - Generated summary for article: With 23andMe entering bankruptcy, here's how to delete your genetic data
+2025-03-26 23:15:10,630 - __main__ - INFO - Saved summary to US_tech_news_20250326/summaries/with-23andme-entering-bankruptcy-heres-how-to-dele-20250326231509_summary.json
+2025-03-26 23:15:10,630 - __main__ - INFO - Completed scraping from CNBC
+2025-03-26 23:15:10,630 - __main__ - INFO - Processing source: VentureBeat
+2025-03-26 23:15:10,630 - __main__ - INFO - Getting article links from VentureBeat
+2025-03-26 23:15:11,463 - __main__ - INFO - Found 15 article links from VentureBeat
+2025-03-26 23:15:14,005 - __main__ - INFO - Scraping article: https://venturebeat.com/ai/studio-ghibli-ai-image-trend-overwhelms-openais-new-gpt-4o-feature-delaying-free-tier/
+2025-03-26 23:15:14,162 - __main__ - INFO - Successfully scraped article: ‘Studio Ghibli’ AI image trend overwhelms OpenAI’s new GPT-4o feature, delaying free tier
+2025-03-26 23:15:14,163 - __main__ - INFO - Saved article to US_tech_news_20250326/articles/studio-ghibli-ai-image-trend-overwhelms-openais-ne-20250326231514.json
+2025-03-26 23:15:15,315 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-26 23:15:15,324 - __main__ - INFO - Generated summary for article: ‘Studio Ghibli’ AI image trend overwhelms OpenAI’s new GPT-4o feature, delaying free tier
+2025-03-26 23:15:15,325 - __main__ - INFO - Saved summary to US_tech_news_20250326/summaries/studio-ghibli-ai-image-trend-overwhelms-openais-ne-20250326231514_summary.json
+2025-03-26 23:15:18,753 - __main__ - INFO - Scraping article: https://venturebeat.com/ai/groq-and-playai-just-made-voice-ai-sound-way-more-human-heres-how/
+2025-03-26 23:15:18,913 - __main__ - INFO - Successfully scraped article: Groq and PlayAI just made voice AI sound way more human — here’s how
+2025-03-26 23:15:18,914 - __main__ - INFO - Saved article to US_tech_news_20250326/articles/groq-and-playai-just-made-voice-ai-sound-way-more--20250326231518.json
+2025-03-26 23:15:20,617 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-26 23:15:20,618 - __main__ - INFO - Generated summary for article: Groq and PlayAI just made voice AI sound way more human — here’s how
+2025-03-26 23:15:20,619 - __main__ - INFO - Saved summary to US_tech_news_20250326/summaries/groq-and-playai-just-made-voice-ai-sound-way-more--20250326231518_summary.json
+2025-03-26 23:15:23,383 - __main__ - INFO - Scraping article: https://venturebeat.com/ai/observe-launches-voiceai-agents-to-automate-customer-call-centers-with-realistic-humanlike-voices-that-dont-interrupt/
+2025-03-26 23:15:23,601 - __main__ - INFO - Successfully scraped article: Observe launches VoiceAI agents to automate customer call centers with realistic, humanlike voices that don’t interrupt
+2025-03-26 23:15:23,602 - __main__ - INFO - Saved article to US_tech_news_20250326/articles/observe-launches-voiceai-agents-to-automate-custom-20250326231523.json
+2025-03-26 23:15:25,084 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-26 23:15:25,086 - __main__ - INFO - Generated summary for article: Observe launches VoiceAI agents to automate customer call centers with realistic, humanlike voices that don’t interrupt
+2025-03-26 23:15:25,088 - __main__ - INFO - Saved summary to US_tech_news_20250326/summaries/observe-launches-voiceai-agents-to-automate-custom-20250326231523_summary.json
+2025-03-26 23:15:27,305 - __main__ - INFO - Scraping article: https://venturebeat.com/ai/the-open-source-model-context-protocol-was-just-updated-heres-why-its-a-big-deal/
+2025-03-26 23:15:27,621 - __main__ - INFO - Successfully scraped article: The open source Model Context Protocol was just updated — here’s why it’s a big deal
+2025-03-26 23:15:27,622 - __main__ - INFO - Saved article to US_tech_news_20250326/articles/the-open-source-model-context-protocol-was-just-up-20250326231527.json
+2025-03-26 23:15:29,012 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-26 23:15:29,035 - __main__ - INFO - Generated summary for article: The open source Model Context Protocol was just updated — here’s why it’s a big deal
+2025-03-26 23:15:29,035 - __main__ - INFO - Saved summary to US_tech_news_20250326/summaries/the-open-source-model-context-protocol-was-just-up-20250326231527_summary.json
+2025-03-26 23:15:30,931 - __main__ - INFO - Scraping article: https://venturebeat.com/business/trust-wallet-reaches-200-million-downloads-milestone/
+2025-03-26 23:15:31,205 - __main__ - INFO - Successfully scraped article: Trust Wallet Reaches 200 Million Downloads Milestone
+2025-03-26 23:15:31,207 - __main__ - INFO - Saved article to US_tech_news_20250326/articles/trust-wallet-reaches-200-million-downloads-milesto-20250326231531.json
+2025-03-26 23:15:32,802 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-26 23:15:32,803 - __main__ - INFO - Generated summary for article: Trust Wallet Reaches 200 Million Downloads Milestone
+2025-03-26 23:15:32,803 - __main__ - INFO - Saved summary to US_tech_news_20250326/summaries/trust-wallet-reaches-200-million-downloads-milesto-20250326231531_summary.json
+2025-03-26 23:15:35,682 - __main__ - INFO - Scraping article: https://venturebeat.com/business/tensoropera-ai-and-samsung-electronics-showcase-the-future-of-generative-ai-on-mobile-devices/
+2025-03-26 23:15:35,892 - __main__ - INFO - Successfully scraped article: TensorOpera AI and Samsung Electronics Showcase the Future of Generative AI on Mobile Devices
+2025-03-26 23:15:35,893 - __main__ - INFO - Saved article to US_tech_news_20250326/articles/tensoropera-ai-and-samsung-electronics-showcase-th-20250326231535.json
+2025-03-26 23:15:37,484 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-26 23:15:37,486 - __main__ - INFO - Generated summary for article: TensorOpera AI and Samsung Electronics Showcase the Future of Generative AI on Mobile Devices
+2025-03-26 23:15:37,488 - __main__ - INFO - Saved summary to US_tech_news_20250326/summaries/tensoropera-ai-and-samsung-electronics-showcase-th-20250326231535_summary.json
+2025-03-26 23:15:39,425 - __main__ - INFO - Scraping article: https://venturebeat.com/ai/microsoft-infuses-enterprise-agents-with-deep-reasoning-unveils-data-analyst-agent-that-outsmarts-competitors/
+2025-03-26 23:15:39,546 - __main__ - INFO - Successfully scraped article: Microsoft infuses enterprise agents with deep reasoning, unveils data Analyst agent that outsmarts competitors
+2025-03-26 23:15:39,546 - __main__ - INFO - Saved article to US_tech_news_20250326/articles/microsoft-infuses-enterprise-agents-with-deep-reas-20250326231539.json
+2025-03-26 23:15:40,680 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-26 23:15:40,686 - __main__ - INFO - Generated summary for article: Microsoft infuses enterprise agents with deep reasoning, unveils data Analyst agent that outsmarts competitors
+2025-03-26 23:15:40,686 - __main__ - INFO - Saved summary to US_tech_news_20250326/summaries/microsoft-infuses-enterprise-agents-with-deep-reas-20250326231539_summary.json
+2025-03-26 23:15:43,022 - __main__ - INFO - Scraping article: https://venturebeat.com/ai/beyond-transformers-nvidias-mambavision-aims-to-unlock-faster-cheaper-enterprise-computer-vision/
+2025-03-26 23:15:43,203 - __main__ - INFO - Successfully scraped article: Beyond transformers: Nvidia’s MambaVision aims to unlock faster, cheaper enterprise computer vision
+2025-03-26 23:15:43,204 - __main__ - INFO - Saved article to US_tech_news_20250326/articles/beyond-transformers-nvidias-mambavision-aims-to-un-20250326231543.json
+2025-03-26 23:15:45,522 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-26 23:15:45,530 - __main__ - INFO - Generated summary for article: Beyond transformers: Nvidia’s MambaVision aims to unlock faster, cheaper enterprise computer vision
+2025-03-26 23:15:45,531 - __main__ - INFO - Saved summary to US_tech_news_20250326/summaries/beyond-transformers-nvidias-mambavision-aims-to-un-20250326231543_summary.json
+2025-03-26 23:15:47,348 - __main__ - INFO - Scraping article: https://venturebeat.com/ai/metascale-improves-llm-reasoning-with-adaptive-strategies/
+2025-03-26 23:15:47,730 - __main__ - INFO - Successfully scraped article: METASCALE improves LLM reasoning with adaptive strategies
+2025-03-26 23:15:47,730 - __main__ - INFO - Saved article to US_tech_news_20250326/articles/metascale-improves-llm-reasoning-with-adaptive-str-20250326231547.json
+2025-03-26 23:15:49,264 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-26 23:15:49,266 - __main__ - INFO - Generated summary for article: METASCALE improves LLM reasoning with adaptive strategies
+2025-03-26 23:15:49,267 - __main__ - INFO - Saved summary to US_tech_news_20250326/summaries/metascale-improves-llm-reasoning-with-adaptive-str-20250326231547_summary.json
+2025-03-26 23:15:51,207 - __main__ - INFO - Scraping article: https://venturebeat.com/ai/google-releases-most-intelligent-model-to-date-gemini-2-5-pro/
+2025-03-26 23:15:51,345 - __main__ - INFO - Successfully scraped article: Google releases ‘most intelligent model to date,’ Gemini 2.5 Pro
+2025-03-26 23:15:51,346 - __main__ - INFO - Saved article to US_tech_news_20250326/articles/google-releases-most-intelligent-model-to-date-gem-20250326231551.json
+2025-03-26 23:15:52,667 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-26 23:15:52,668 - __main__ - INFO - Generated summary for article: Google releases ‘most intelligent model to date,’ Gemini 2.5 Pro
+2025-03-26 23:15:52,669 - __main__ - INFO - Saved summary to US_tech_news_20250326/summaries/google-releases-most-intelligent-model-to-date-gem-20250326231551_summary.json
+2025-03-26 23:15:54,874 - __main__ - INFO - Scraping article: https://venturebeat.com/ai/insane-openai-introduces-gpt-4o-native-image-generation-and-its-already-wowing-users/
+2025-03-26 23:15:55,026 - __main__ - INFO - Successfully scraped article: ‘Insane’: OpenAI introduces GPT-4o native image generation and it’s already wowing users
+2025-03-26 23:15:55,027 - __main__ - INFO - Saved article to US_tech_news_20250326/articles/insane-openai-introduces-gpt-4o-native-image-gener-20250326231555.json
+2025-03-26 23:15:56,431 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-26 23:15:56,434 - __main__ - INFO - Generated summary for article: ‘Insane’: OpenAI introduces GPT-4o native image generation and it’s already wowing users
+2025-03-26 23:15:56,435 - __main__ - INFO - Saved summary to US_tech_news_20250326/summaries/insane-openai-introduces-gpt-4o-native-image-gener-20250326231555_summary.json
+2025-03-26 23:15:59,436 - __main__ - INFO - Scraping article: https://venturebeat.com/business/powerful-medical-receives-fda-breakthrough-device-designation-for-pmcardio-stemi-ai-ecg-model/
+2025-03-26 23:15:59,592 - __main__ - INFO - Successfully scraped article: Powerful Medical Receives FDA Breakthrough Device Designation for PMcardio STEMI AI ECG Model
+2025-03-26 23:15:59,593 - __main__ - INFO - Saved article to US_tech_news_20250326/articles/powerful-medical-receives-fda-breakthrough-device--20250326231559.json
+2025-03-26 23:16:01,024 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-26 23:16:01,032 - __main__ - INFO - Generated summary for article: Powerful Medical Receives FDA Breakthrough Device Designation for PMcardio STEMI AI ECG Model
+2025-03-26 23:16:01,033 - __main__ - INFO - Saved summary to US_tech_news_20250326/summaries/powerful-medical-receives-fda-breakthrough-device--20250326231559_summary.json
+2025-03-26 23:16:03,738 - __main__ - INFO - Scraping article: https://venturebeat.com/ai/the-new-best-ai-image-generation-model-is-here-say-hello-to-reve-image-1-0/
+2025-03-26 23:16:04,116 - __main__ - INFO - Successfully scraped article: The new best AI image generation model is here: say hello to Reve Image 1.0!
+2025-03-26 23:16:04,117 - __main__ - INFO - Saved article to US_tech_news_20250326/articles/the-new-best-ai-image-generation-model-is-here-say-20250326231604.json
+2025-03-26 23:16:05,815 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-26 23:16:05,817 - __main__ - INFO - Generated summary for article: The new best AI image generation model is here: say hello to Reve Image 1.0!
+2025-03-26 23:16:05,817 - __main__ - INFO - Saved summary to US_tech_news_20250326/summaries/the-new-best-ai-image-generation-model-is-here-say-20250326231604_summary.json
+2025-03-26 23:16:08,444 - __main__ - INFO - Scraping article: https://venturebeat.com/data-infrastructure/providing-consistent-reliable-customer-experiences-with-cqrs-at-scale/
+2025-03-26 23:16:08,758 - __main__ - INFO - Successfully scraped article: Providing consistent, reliable customer experiences with CQRS at scale
+2025-03-26 23:16:08,758 - __main__ - INFO - Saved article to US_tech_news_20250326/articles/providing-consistent-reliable-customer-experiences-20250326231608.json
+2025-03-26 23:16:10,067 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-26 23:16:10,068 - __main__ - INFO - Generated summary for article: Providing consistent, reliable customer experiences with CQRS at scale
+2025-03-26 23:16:10,069 - __main__ - INFO - Saved summary to US_tech_news_20250326/summaries/providing-consistent-reliable-customer-experiences-20250326231608_summary.json
+2025-03-26 23:16:12,338 - __main__ - INFO - Scraping article: https://venturebeat.com/ai/beyond-transcription-how-agentic-ai-is-set-to-change-enterprise-meetings/
+2025-03-26 23:16:12,483 - __main__ - INFO - Successfully scraped article: Agentic AI is changing online meeting platforms: Moving from silent observer to active participant
+2025-03-26 23:16:12,484 - __main__ - INFO - Saved article to US_tech_news_20250326/articles/agentic-ai-is-changing-online-meeting-platforms-mo-20250326231612.json
+2025-03-26 23:16:13,591 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-26 23:16:13,593 - __main__ - INFO - Generated summary for article: Agentic AI is changing online meeting platforms: Moving from silent observer to active participant
+2025-03-26 23:16:13,594 - __main__ - INFO - Saved summary to US_tech_news_20250326/summaries/agentic-ai-is-changing-online-meeting-platforms-mo-20250326231612_summary.json
+2025-03-26 23:16:13,594 - __main__ - INFO - Completed scraping from VentureBeat
+2025-03-26 23:16:13,594 - __main__ - INFO - Processing source: Business Insider
+2025-03-26 23:16:13,594 - __main__ - INFO - Getting article links from Business Insider
+2025-03-26 23:16:14,034 - __main__ - INFO - Found 15 article links from Business Insider
+2025-03-26 23:16:15,949 - __main__ - INFO - Scraping article: https://www.businessinsider.com/coreweave-ipo-nvidia-gpu-hopper-problem-blackwell-ai-depreciation-2025-3
+2025-03-26 23:16:16,139 - __main__ - INFO - Successfully scraped article: CoreWeave is on the cusp of a huge IPO — but it could face an expensive hardware problem
+2025-03-26 23:16:16,140 - __main__ - WARNING - Failed to scrape article https://www.businessinsider.com/coreweave-ipo-nvidia-gpu-hopper-problem-blackwell-ai-depreciation-2025-3 on attempt 1
+2025-03-26 23:16:18,145 - __main__ - INFO - Scraping article: https://www.businessinsider.com/coreweave-ipo-nvidia-gpu-hopper-problem-blackwell-ai-depreciation-2025-3
+2025-03-26 23:16:18,353 - __main__ - INFO - Successfully scraped article: CoreWeave is on the cusp of a huge IPO — but it could face an expensive hardware problem
+2025-03-26 23:16:18,354 - __main__ - WARNING - Failed to scrape article https://www.businessinsider.com/coreweave-ipo-nvidia-gpu-hopper-problem-blackwell-ai-depreciation-2025-3 on attempt 2
+2025-03-26 23:16:21,355 - __main__ - INFO - Scraping article: https://www.businessinsider.com/coreweave-ipo-nvidia-gpu-hopper-problem-blackwell-ai-depreciation-2025-3
+2025-03-26 23:16:22,057 - __main__ - INFO - Successfully scraped article: CoreWeave is on the cusp of a huge IPO — but it could face an expensive hardware problem
+2025-03-26 23:16:22,057 - __main__ - WARNING - Failed to scrape article https://www.businessinsider.com/coreweave-ipo-nvidia-gpu-hopper-problem-blackwell-ai-depreciation-2025-3 on attempt 3
+2025-03-26 23:16:24,011 - __main__ - INFO - Scraping article: https://www.businessinsider.com/nvidia-partner-ddn-strategic-leap-nvidia-ai-infrastructure-2025-3
+2025-03-26 23:16:24,320 - __main__ - INFO - Successfully scraped article: Meet a decades-old software company hitching a ride on the Nvidia rocket ship
+2025-03-26 23:16:24,321 - __main__ - INFO - Saved article to US_tech_news_20250326/articles/meet-a-decades-old-software-company-hitching-a-rid-20250326231624.json
+2025-03-26 23:16:25,001 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-26 23:16:25,004 - __main__ - INFO - Generated summary for article: Meet a decades-old software company hitching a ride on the Nvidia rocket ship
+2025-03-26 23:16:25,007 - __main__ - INFO - Saved summary to US_tech_news_20250326/summaries/meet-a-decades-old-software-company-hitching-a-rid-20250326231624_summary.json
+2025-03-26 23:16:27,453 - __main__ - INFO - Scraping article: https://www.businessinsider.com/ex-meta-vp-raised-back-to-back-mega-funding-rounds-2025-3
+2025-03-26 23:16:27,685 - __main__ - INFO - Successfully scraped article: Ex-Meta VP is raising back-to-back mega funding rounds from the same investors who made a fortune when Google bought Wiz
+2025-03-26 23:16:27,685 - __main__ - WARNING - Failed to scrape article https://www.businessinsider.com/ex-meta-vp-raised-back-to-back-mega-funding-rounds-2025-3 on attempt 1
+2025-03-26 23:16:29,689 - __main__ - INFO - Scraping article: https://www.businessinsider.com/ex-meta-vp-raised-back-to-back-mega-funding-rounds-2025-3
+2025-03-26 23:16:29,872 - __main__ - INFO - Successfully scraped article: Ex-Meta VP is raising back-to-back mega funding rounds from the same investors who made a fortune when Google bought Wiz
+2025-03-26 23:16:29,872 - __main__ - INFO - Saved article to US_tech_news_20250326/articles/ex-meta-vp-is-raising-back-to-back-mega-funding-ro-20250326231629.json
+2025-03-26 23:16:30,431 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-26 23:16:30,433 - __main__ - INFO - Generated summary for article: Ex-Meta VP is raising back-to-back mega funding rounds from the same investors who made a fortune when Google bought Wiz
+2025-03-26 23:16:30,433 - __main__ - INFO - Saved summary to US_tech_news_20250326/summaries/ex-meta-vp-is-raising-back-to-back-mega-funding-ro-20250326231629_summary.json
+2025-03-26 23:16:31,941 - __main__ - INFO - Scraping article: https://www.businessinsider.com/23andme-cofounder-linda-avey-company-lost-way-2025-3
+2025-03-26 23:16:32,209 - __main__ - INFO - Successfully scraped article: 23andMe cofounder says company 'lost its way' without 'proper governance'
+2025-03-26 23:16:32,209 - __main__ - WARNING - Failed to scrape article https://www.businessinsider.com/23andme-cofounder-linda-avey-company-lost-way-2025-3 on attempt 1
+2025-03-26 23:16:34,214 - __main__ - INFO - Scraping article: https://www.businessinsider.com/23andme-cofounder-linda-avey-company-lost-way-2025-3
+2025-03-26 23:16:34,618 - __main__ - INFO - Successfully scraped article: 23andMe cofounder says company 'lost its way' without 'proper governance'
+2025-03-26 23:16:34,619 - __main__ - INFO - Saved article to US_tech_news_20250326/articles/23andme-cofounder-says-company-lost-its-way-withou-20250326231634.json
+2025-03-26 23:16:35,071 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-26 23:16:35,073 - __main__ - INFO - Generated summary for article: 23andMe cofounder says company 'lost its way' without 'proper governance'
+2025-03-26 23:16:35,073 - __main__ - INFO - Saved summary to US_tech_news_20250326/summaries/23andme-cofounder-says-company-lost-its-way-withou-20250326231634_summary.json
+2025-03-26 23:16:37,814 - __main__ - INFO - Scraping article: https://www.businessinsider.com/google-smaller-pay-bumps-recent-all-hands-2025-3
+2025-03-26 23:16:38,084 - __main__ - INFO - Successfully scraped article: Googlers grilled leaders about smaller pay bumps in a recent all-hands
+2025-03-26 23:16:38,085 - __main__ - INFO - Saved article to US_tech_news_20250326/articles/googlers-grilled-leaders-about-smaller-pay-bumps-i-20250326231638.json
+2025-03-26 23:16:38,955 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-26 23:16:38,956 - __main__ - INFO - Generated summary for article: Googlers grilled leaders about smaller pay bumps in a recent all-hands
+2025-03-26 23:16:38,957 - __main__ - INFO - Saved summary to US_tech_news_20250326/summaries/googlers-grilled-leaders-about-smaller-pay-bumps-i-20250326231638_summary.json
+2025-03-26 23:16:41,336 - __main__ - INFO - Scraping article: https://www.businessinsider.com/charlie-javice-trial-closings-one-word-will-play-starring-role-2025-3
+2025-03-26 23:16:41,539 - __main__ - INFO - Successfully scraped article: One word played a starring role in the closing arguments of Frank founder Charlie Javice's trial
+2025-03-26 23:16:41,540 - __main__ - WARNING - Failed to scrape article https://www.businessinsider.com/charlie-javice-trial-closings-one-word-will-play-starring-role-2025-3 on attempt 1
+2025-03-26 23:16:43,545 - __main__ - INFO - Scraping article: https://www.businessinsider.com/charlie-javice-trial-closings-one-word-will-play-starring-role-2025-3
+2025-03-26 23:16:43,739 - __main__ - INFO - Successfully scraped article: One word played a starring role in the closing arguments of Frank founder Charlie Javice's trial
+2025-03-26 23:16:43,739 - __main__ - WARNING - Failed to scrape article https://www.businessinsider.com/charlie-javice-trial-closings-one-word-will-play-starring-role-2025-3 on attempt 2
+2025-03-26 23:16:46,742 - __main__ - INFO - Scraping article: https://www.businessinsider.com/charlie-javice-trial-closings-one-word-will-play-starring-role-2025-3
+2025-03-26 23:16:47,924 - __main__ - INFO - Successfully scraped article: One word played a starring role in the closing arguments of Frank founder Charlie Javice's trial
+2025-03-26 23:16:47,924 - __main__ - WARNING - Failed to scrape article https://www.businessinsider.com/charlie-javice-trial-closings-one-word-will-play-starring-role-2025-3 on attempt 3
+2025-03-26 23:16:51,396 - __main__ - INFO - Scraping article: https://www.businessinsider.com/why-5g-failed-to-change-the-world-2025-3
+2025-03-26 23:16:51,638 - __main__ - INFO - Successfully scraped article: 5G internet was supposed to change the world. Here's why it fell flat.
+2025-03-26 23:16:51,638 - __main__ - WARNING - Failed to scrape article https://www.businessinsider.com/why-5g-failed-to-change-the-world-2025-3 on attempt 1
+2025-03-26 23:16:53,643 - __main__ - INFO - Scraping article: https://www.businessinsider.com/why-5g-failed-to-change-the-world-2025-3
+2025-03-26 23:16:53,933 - __main__ - INFO - Successfully scraped article: 5G internet was supposed to change the world. Here's why it fell flat.
+2025-03-26 23:16:53,934 - __main__ - INFO - Saved article to US_tech_news_20250326/articles/5g-internet-was-supposed-to-change-the-world-heres-20250326231653.json
+2025-03-26 23:16:54,620 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-26 23:16:54,631 - __main__ - INFO - Generated summary for article: 5G internet was supposed to change the world. Here's why it fell flat.
+2025-03-26 23:16:54,632 - __main__ - INFO - Saved summary to US_tech_news_20250326/summaries/5g-internet-was-supposed-to-change-the-world-heres-20250326231653_summary.json
+2025-03-26 23:16:57,135 - __main__ - INFO - Scraping article: https://www.businessinsider.com/bumble-ceo-whitney-wolfe-herd-inspired-walt-disney-2025-3
+2025-03-26 23:16:57,350 - __main__ - INFO - Successfully scraped article: Walt Disney had a surprising role in the creation of Bumble
+2025-03-26 23:16:57,350 - __main__ - WARNING - Failed to scrape article https://www.businessinsider.com/bumble-ceo-whitney-wolfe-herd-inspired-walt-disney-2025-3 on attempt 1
+2025-03-26 23:16:59,352 - __main__ - INFO - Scraping article: https://www.businessinsider.com/bumble-ceo-whitney-wolfe-herd-inspired-walt-disney-2025-3
+2025-03-26 23:16:59,836 - __main__ - INFO - Successfully scraped article: Walt Disney had a surprising role in the creation of Bumble
+2025-03-26 23:16:59,836 - __main__ - INFO - Saved article to US_tech_news_20250326/articles/walt-disney-had-a-surprising-role-in-the-creation--20250326231659.json
+2025-03-26 23:17:00,661 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-26 23:17:00,662 - __main__ - INFO - Generated summary for article: Walt Disney had a surprising role in the creation of Bumble
+2025-03-26 23:17:00,663 - __main__ - INFO - Saved summary to US_tech_news_20250326/summaries/walt-disney-had-a-surprising-role-in-the-creation--20250326231659_summary.json
+2025-03-26 23:17:03,996 - __main__ - INFO - Scraping article: https://www.businessinsider.com/elon-musk-x-advertising-revenue-on-upswing-analys-estimates-2025-3
+2025-03-26 23:17:04,548 - __main__ - INFO - Successfully scraped article: New analyst forecast says X's advertising revenue is on the upswing, driven partly by 'fear'
+2025-03-26 23:17:04,549 - __main__ - INFO - Saved article to US_tech_news_20250326/articles/new-analyst-forecast-says-xs-advertising-revenue-i-20250326231704.json
+2025-03-26 23:17:05,268 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-26 23:17:05,270 - __main__ - INFO - Generated summary for article: New analyst forecast says X's advertising revenue is on the upswing, driven partly by 'fear'
+2025-03-26 23:17:05,270 - __main__ - INFO - Saved summary to US_tech_news_20250326/summaries/new-analyst-forecast-says-xs-advertising-revenue-i-20250326231704_summary.json
+2025-03-26 23:17:08,110 - __main__ - INFO - Scraping article: https://www.businessinsider.com/sam-altman-good-tweet-twink-image-generator-2025-3
+2025-03-26 23:17:08,412 - __main__ - INFO - Successfully scraped article: Sam Altman did a good tweet
+2025-03-26 23:17:08,413 - __main__ - WARNING - Failed to scrape article https://www.businessinsider.com/sam-altman-good-tweet-twink-image-generator-2025-3 on attempt 1
+2025-03-26 23:17:10,418 - __main__ - INFO - Scraping article: https://www.businessinsider.com/sam-altman-good-tweet-twink-image-generator-2025-3
+2025-03-26 23:17:10,828 - __main__ - INFO - Successfully scraped article: Sam Altman did a good tweet
+2025-03-26 23:17:10,829 - __main__ - WARNING - Failed to scrape article https://www.businessinsider.com/sam-altman-good-tweet-twink-image-generator-2025-3 on attempt 2
+2025-03-26 23:17:13,834 - __main__ - INFO - Scraping article: https://www.businessinsider.com/sam-altman-good-tweet-twink-image-generator-2025-3
+2025-03-26 23:17:14,029 - __main__ - INFO - Successfully scraped article: Sam Altman did a good tweet
+2025-03-26 23:17:14,029 - __main__ - WARNING - Failed to scrape article https://www.businessinsider.com/sam-altman-good-tweet-twink-image-generator-2025-3 on attempt 3
+2025-03-26 23:17:16,916 - __main__ - INFO - Scraping article: https://www.businessinsider.com/guides/tech/what-is-hdr-tv
+2025-03-26 23:17:17,190 - __main__ - INFO - Successfully scraped article: What is HDR for TVs? High-dynamic-range formats and benefits, explained
+2025-03-26 23:17:17,190 - __main__ - WARNING - Failed to scrape article https://www.businessinsider.com/guides/tech/what-is-hdr-tv on attempt 1
+2025-03-26 23:17:19,195 - __main__ - INFO - Scraping article: https://www.businessinsider.com/guides/tech/what-is-hdr-tv
+2025-03-26 23:17:19,626 - __main__ - INFO - Successfully scraped article: What is HDR for TVs? High-dynamic-range formats and benefits, explained
+2025-03-26 23:17:19,627 - __main__ - WARNING - Failed to scrape article https://www.businessinsider.com/guides/tech/what-is-hdr-tv on attempt 2
+2025-03-26 23:17:22,632 - __main__ - INFO - Scraping article: https://www.businessinsider.com/guides/tech/what-is-hdr-tv
+2025-03-26 23:17:22,897 - __main__ - INFO - Successfully scraped article: What is HDR for TVs? High-dynamic-range formats and benefits, explained
+2025-03-26 23:17:22,897 - __main__ - WARNING - Failed to scrape article https://www.businessinsider.com/guides/tech/what-is-hdr-tv on attempt 3
+2025-03-26 23:17:25,114 - __main__ - INFO - Scraping article: https://www.businessinsider.com/healthcare-startup-solace-raised-series-b-funding-menlo-ventures-2025-3
+2025-03-26 23:17:25,442 - __main__ - INFO - Successfully scraped article: Patient advocate startup Solace is set to be valued at over $300 million in new  funding round from Menlo Ventures
+2025-03-26 23:17:25,442 - __main__ - WARNING - Failed to scrape article https://www.businessinsider.com/healthcare-startup-solace-raised-series-b-funding-menlo-ventures-2025-3 on attempt 1
+2025-03-26 23:17:27,447 - __main__ - INFO - Scraping article: https://www.businessinsider.com/healthcare-startup-solace-raised-series-b-funding-menlo-ventures-2025-3
+2025-03-26 23:17:27,763 - __main__ - INFO - Successfully scraped article: Patient advocate startup Solace is set to be valued at over $300 million in new  funding round from Menlo Ventures
+2025-03-26 23:17:27,763 - __main__ - WARNING - Failed to scrape article https://www.businessinsider.com/healthcare-startup-solace-raised-series-b-funding-menlo-ventures-2025-3 on attempt 2
+2025-03-26 23:17:30,768 - __main__ - INFO - Scraping article: https://www.businessinsider.com/healthcare-startup-solace-raised-series-b-funding-menlo-ventures-2025-3
+2025-03-26 23:17:30,981 - __main__ - INFO - Successfully scraped article: Patient advocate startup Solace is set to be valued at over $300 million in new  funding round from Menlo Ventures
+2025-03-26 23:17:30,981 - __main__ - WARNING - Failed to scrape article https://www.businessinsider.com/healthcare-startup-solace-raised-series-b-funding-menlo-ventures-2025-3 on attempt 3
+2025-03-26 23:17:33,280 - __main__ - INFO - Scraping article: https://www.businessinsider.com/dell-employee-numbers-decline-by-25000-since-2023-rto-layoffs-2025-3
+2025-03-26 23:17:33,486 - __main__ - INFO - Successfully scraped article: Dell's staff numbers have dropped by 25,000 in just 2 years
+2025-03-26 23:17:33,487 - __main__ - INFO - Saved article to US_tech_news_20250326/articles/dells-staff-numbers-have-dropped-by-25000-in-just--20250326231733.json
+2025-03-26 23:17:34,454 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-26 23:17:34,456 - __main__ - INFO - Generated summary for article: Dell's staff numbers have dropped by 25,000 in just 2 years
+2025-03-26 23:17:34,457 - __main__ - INFO - Saved summary to US_tech_news_20250326/summaries/dells-staff-numbers-have-dropped-by-25000-in-just--20250326231733_summary.json
+2025-03-26 23:17:37,949 - __main__ - INFO - Scraping article: https://www.businessinsider.com/youtubers-sam-colby-built-millions-apparel-business-revenue-details-2025-3
+2025-03-26 23:17:38,214 - __main__ - INFO - Successfully scraped article: How YouTube paranormal investigators Sam and Colby created a $20 million revenue empire
+2025-03-26 23:17:38,214 - __main__ - WARNING - Failed to scrape article https://www.businessinsider.com/youtubers-sam-colby-built-millions-apparel-business-revenue-details-2025-3 on attempt 1
+2025-03-26 23:17:40,219 - __main__ - INFO - Scraping article: https://www.businessinsider.com/youtubers-sam-colby-built-millions-apparel-business-revenue-details-2025-3
+2025-03-26 23:17:40,661 - __main__ - INFO - Successfully scraped article: How YouTube paranormal investigators Sam and Colby created a $20 million revenue empire
+2025-03-26 23:17:40,662 - __main__ - INFO - Saved article to US_tech_news_20250326/articles/how-youtube-paranormal-investigators-sam-and-colby-20250326231740.json
+2025-03-26 23:17:41,407 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-26 23:17:41,411 - __main__ - INFO - Generated summary for article: How YouTube paranormal investigators Sam and Colby created a $20 million revenue empire
+2025-03-26 23:17:41,412 - __main__ - INFO - Saved summary to US_tech_news_20250326/summaries/how-youtube-paranormal-investigators-sam-and-colby-20250326231740_summary.json
+2025-03-26 23:17:43,865 - __main__ - INFO - Scraping article: https://www.businessinsider.com/guides/tech/best-iphone-16e-cases
+2025-03-26 23:17:44,393 - __main__ - INFO - Successfully scraped article: The best iPhone 16e cases: Top picks for protecting your new phone
+2025-03-26 23:17:44,394 - __main__ - INFO - Saved article to US_tech_news_20250326/articles/the-best-iphone-16e-cases-top-picks-for-protecting-20250326231744.json
+2025-03-26 23:17:45,956 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-26 23:17:45,958 - __main__ - INFO - Generated summary for article: The best iPhone 16e cases: Top picks for protecting your new phone
+2025-03-26 23:17:45,959 - __main__ - INFO - Saved summary to US_tech_news_20250326/summaries/the-best-iphone-16e-cases-top-picks-for-protecting-20250326231744_summary.json
+2025-03-26 23:17:45,959 - __main__ - INFO - Completed scraping from Business Insider
+2025-03-26 23:17:45,959 - __main__ - INFO - Processing source: MarketWatch
+2025-03-26 23:17:45,959 - __main__ - INFO - Getting article links from MarketWatch
+2025-03-26 23:17:46,232 - __main__ - INFO - Found 12 article links from MarketWatch
+2025-03-26 23:17:48,029 - __main__ - INFO - Scraping article: https://www.marketwatch.com/story/petco-anticipates-another-sales-drop-this-year-its-stock-is-up-anyway-e4e74308?mod=investing
+2025-03-26 23:17:48,270 - __main__ - INFO - Successfully scraped article: 
+2025-03-26 23:17:48,270 - __main__ - WARNING - Failed to scrape article https://www.marketwatch.com/story/petco-anticipates-another-sales-drop-this-year-its-stock-is-up-anyway-e4e74308?mod=investing on attempt 1
+2025-03-26 23:17:50,275 - __main__ - INFO - Scraping article: https://www.marketwatch.com/story/petco-anticipates-another-sales-drop-this-year-its-stock-is-up-anyway-e4e74308?mod=investing
+2025-03-26 23:17:50,500 - __main__ - INFO - Successfully scraped article: 
+2025-03-26 23:17:50,501 - __main__ - WARNING - Failed to scrape article https://www.marketwatch.com/story/petco-anticipates-another-sales-drop-this-year-its-stock-is-up-anyway-e4e74308?mod=investing on attempt 2
+2025-03-26 23:17:53,506 - __main__ - INFO - Scraping article: https://www.marketwatch.com/story/petco-anticipates-another-sales-drop-this-year-its-stock-is-up-anyway-e4e74308?mod=investing
+2025-03-26 23:17:53,748 - __main__ - INFO - Successfully scraped article: 
+2025-03-26 23:17:53,749 - __main__ - WARNING - Failed to scrape article https://www.marketwatch.com/story/petco-anticipates-another-sales-drop-this-year-its-stock-is-up-anyway-e4e74308?mod=investing on attempt 3
+2025-03-26 23:17:56,047 - __main__ - INFO - Scraping article: https://www.marketwatch.com/story/dollar-tree-stock-jumps-on-family-dollar-sale-q4-earnings-and-revenue-beat-e2313bc8?mod=investing
+2025-03-26 23:17:56,302 - __main__ - INFO - Successfully scraped article: 
+2025-03-26 23:17:56,302 - __main__ - WARNING - Failed to scrape article https://www.marketwatch.com/story/dollar-tree-stock-jumps-on-family-dollar-sale-q4-earnings-and-revenue-beat-e2313bc8?mod=investing on attempt 1
+2025-03-26 23:17:58,307 - __main__ - INFO - Scraping article: https://www.marketwatch.com/story/dollar-tree-stock-jumps-on-family-dollar-sale-q4-earnings-and-revenue-beat-e2313bc8?mod=investing
+2025-03-26 23:17:58,584 - __main__ - INFO - Successfully scraped article: 
+2025-03-26 23:17:58,585 - __main__ - WARNING - Failed to scrape article https://www.marketwatch.com/story/dollar-tree-stock-jumps-on-family-dollar-sale-q4-earnings-and-revenue-beat-e2313bc8?mod=investing on attempt 2
+2025-03-26 23:18:01,590 - __main__ - INFO - Scraping article: https://www.marketwatch.com/story/dollar-tree-stock-jumps-on-family-dollar-sale-q4-earnings-and-revenue-beat-e2313bc8?mod=investing
+2025-03-26 23:18:01,905 - __main__ - INFO - Successfully scraped article: 
+2025-03-26 23:18:01,905 - __main__ - WARNING - Failed to scrape article https://www.marketwatch.com/story/dollar-tree-stock-jumps-on-family-dollar-sale-q4-earnings-and-revenue-beat-e2313bc8?mod=investing on attempt 3
+2025-03-26 23:18:04,421 - __main__ - INFO - Scraping article: https://www.marketwatch.com/story/investors-may-feel-like-chasing-bitcoin-higher-this-spring-here-are-this-years-unique-dangers-523f30b9?mod=investing
+2025-03-26 23:18:04,650 - __main__ - INFO - Successfully scraped article: 
+2025-03-26 23:18:04,650 - __main__ - WARNING - Failed to scrape article https://www.marketwatch.com/story/investors-may-feel-like-chasing-bitcoin-higher-this-spring-here-are-this-years-unique-dangers-523f30b9?mod=investing on attempt 1
+2025-03-26 23:18:06,655 - __main__ - INFO - Scraping article: https://www.marketwatch.com/story/investors-may-feel-like-chasing-bitcoin-higher-this-spring-here-are-this-years-unique-dangers-523f30b9?mod=investing
+2025-03-26 23:18:06,883 - __main__ - INFO - Successfully scraped article: 
+2025-03-26 23:18:06,883 - __main__ - WARNING - Failed to scrape article https://www.marketwatch.com/story/investors-may-feel-like-chasing-bitcoin-higher-this-spring-here-are-this-years-unique-dangers-523f30b9?mod=investing on attempt 2
+2025-03-26 23:18:09,888 - __main__ - INFO - Scraping article: https://www.marketwatch.com/story/investors-may-feel-like-chasing-bitcoin-higher-this-spring-here-are-this-years-unique-dangers-523f30b9?mod=investing
+2025-03-26 23:18:10,140 - __main__ - INFO - Successfully scraped article: 
+2025-03-26 23:18:10,140 - __main__ - WARNING - Failed to scrape article https://www.marketwatch.com/story/investors-may-feel-like-chasing-bitcoin-higher-this-spring-here-are-this-years-unique-dangers-523f30b9?mod=investing on attempt 3
+2025-03-26 23:18:12,700 - __main__ - INFO - Scraping article: https://www.marketwatch.com/story/software-stocks-have-sold-off-on-doge-fears-and-more-is-it-time-to-get-back-into-the-sector-6cbb05f7?mod=investing
+2025-03-26 23:18:12,975 - __main__ - INFO - Successfully scraped article: 
+2025-03-26 23:18:12,976 - __main__ - WARNING - Failed to scrape article https://www.marketwatch.com/story/software-stocks-have-sold-off-on-doge-fears-and-more-is-it-time-to-get-back-into-the-sector-6cbb05f7?mod=investing on attempt 1
+2025-03-26 23:18:14,981 - __main__ - INFO - Scraping article: https://www.marketwatch.com/story/software-stocks-have-sold-off-on-doge-fears-and-more-is-it-time-to-get-back-into-the-sector-6cbb05f7?mod=investing
+2025-03-26 23:18:15,212 - __main__ - INFO - Successfully scraped article: 
+2025-03-26 23:18:15,212 - __main__ - WARNING - Failed to scrape article https://www.marketwatch.com/story/software-stocks-have-sold-off-on-doge-fears-and-more-is-it-time-to-get-back-into-the-sector-6cbb05f7?mod=investing on attempt 2
+2025-03-26 23:18:18,217 - __main__ - INFO - Scraping article: https://www.marketwatch.com/story/software-stocks-have-sold-off-on-doge-fears-and-more-is-it-time-to-get-back-into-the-sector-6cbb05f7?mod=investing
+2025-03-26 23:18:18,442 - __main__ - INFO - Successfully scraped article: 
+2025-03-26 23:18:18,442 - __main__ - WARNING - Failed to scrape article https://www.marketwatch.com/story/software-stocks-have-sold-off-on-doge-fears-and-more-is-it-time-to-get-back-into-the-sector-6cbb05f7?mod=investing on attempt 3
+2025-03-26 23:18:20,117 - __main__ - INFO - Scraping article: https://www.marketwatch.com/story/why-gamestop-is-trying-to-be-the-next-microstrategy-with-its-bitcoin-move-15418d00?mod=investing
+2025-03-26 23:18:20,352 - __main__ - INFO - Successfully scraped article: 
+2025-03-26 23:18:20,353 - __main__ - WARNING - Failed to scrape article https://www.marketwatch.com/story/why-gamestop-is-trying-to-be-the-next-microstrategy-with-its-bitcoin-move-15418d00?mod=investing on attempt 1
+2025-03-26 23:18:22,358 - __main__ - INFO - Scraping article: https://www.marketwatch.com/story/why-gamestop-is-trying-to-be-the-next-microstrategy-with-its-bitcoin-move-15418d00?mod=investing
+2025-03-26 23:18:22,684 - __main__ - INFO - Successfully scraped article: 
+2025-03-26 23:18:22,685 - __main__ - WARNING - Failed to scrape article https://www.marketwatch.com/story/why-gamestop-is-trying-to-be-the-next-microstrategy-with-its-bitcoin-move-15418d00?mod=investing on attempt 2
+2025-03-26 23:18:25,690 - __main__ - INFO - Scraping article: https://www.marketwatch.com/story/why-gamestop-is-trying-to-be-the-next-microstrategy-with-its-bitcoin-move-15418d00?mod=investing
+2025-03-26 23:18:25,942 - __main__ - INFO - Successfully scraped article: 
+2025-03-26 23:18:25,942 - __main__ - WARNING - Failed to scrape article https://www.marketwatch.com/story/why-gamestop-is-trying-to-be-the-next-microstrategy-with-its-bitcoin-move-15418d00?mod=investing on attempt 3
+2025-03-26 23:18:28,227 - __main__ - INFO - Scraping article: https://www.marketwatch.com/story/these-currencies-stand-to-lose-the-most-from-trumps-tariff-threats-and-other-countries-countermoves-898b0735?mod=investing
+2025-03-26 23:18:28,452 - __main__ - INFO - Successfully scraped article: 
+2025-03-26 23:18:28,452 - __main__ - WARNING - Failed to scrape article https://www.marketwatch.com/story/these-currencies-stand-to-lose-the-most-from-trumps-tariff-threats-and-other-countries-countermoves-898b0735?mod=investing on attempt 1
+2025-03-26 23:18:30,458 - __main__ - INFO - Scraping article: https://www.marketwatch.com/story/these-currencies-stand-to-lose-the-most-from-trumps-tariff-threats-and-other-countries-countermoves-898b0735?mod=investing
+2025-03-26 23:18:30,682 - __main__ - INFO - Successfully scraped article: 
+2025-03-26 23:18:30,682 - __main__ - WARNING - Failed to scrape article https://www.marketwatch.com/story/these-currencies-stand-to-lose-the-most-from-trumps-tariff-threats-and-other-countries-countermoves-898b0735?mod=investing on attempt 2
+2025-03-26 23:18:33,687 - __main__ - INFO - Scraping article: https://www.marketwatch.com/story/these-currencies-stand-to-lose-the-most-from-trumps-tariff-threats-and-other-countries-countermoves-898b0735?mod=investing
+2025-03-26 23:18:33,941 - __main__ - INFO - Successfully scraped article: 
+2025-03-26 23:18:33,942 - __main__ - WARNING - Failed to scrape article https://www.marketwatch.com/story/these-currencies-stand-to-lose-the-most-from-trumps-tariff-threats-and-other-countries-countermoves-898b0735?mod=investing on attempt 3
+2025-03-26 23:18:36,104 - __main__ - INFO - Scraping article: https://www.marketwatch.com/story/nvidia-and-other-chip-stocks-slide-as-investors-see-big-risks-to-sales-to-china-c0e9f2d6?mod=investing
+2025-03-26 23:18:36,360 - __main__ - INFO - Successfully scraped article: 
+2025-03-26 23:18:36,360 - __main__ - WARNING - Failed to scrape article https://www.marketwatch.com/story/nvidia-and-other-chip-stocks-slide-as-investors-see-big-risks-to-sales-to-china-c0e9f2d6?mod=investing on attempt 1
+2025-03-26 23:18:38,366 - __main__ - INFO - Scraping article: https://www.marketwatch.com/story/nvidia-and-other-chip-stocks-slide-as-investors-see-big-risks-to-sales-to-china-c0e9f2d6?mod=investing
+2025-03-26 23:18:38,653 - __main__ - INFO - Successfully scraped article: 
+2025-03-26 23:18:38,653 - __main__ - WARNING - Failed to scrape article https://www.marketwatch.com/story/nvidia-and-other-chip-stocks-slide-as-investors-see-big-risks-to-sales-to-china-c0e9f2d6?mod=investing on attempt 2
+2025-03-26 23:18:41,658 - __main__ - INFO - Scraping article: https://www.marketwatch.com/story/nvidia-and-other-chip-stocks-slide-as-investors-see-big-risks-to-sales-to-china-c0e9f2d6?mod=investing
+2025-03-26 23:18:41,903 - __main__ - INFO - Successfully scraped article: 
+2025-03-26 23:18:41,903 - __main__ - WARNING - Failed to scrape article https://www.marketwatch.com/story/nvidia-and-other-chip-stocks-slide-as-investors-see-big-risks-to-sales-to-china-c0e9f2d6?mod=investing on attempt 3
+2025-03-26 23:18:45,286 - __main__ - INFO - Scraping article: https://www.marketwatch.com/story/why-the-stock-market-could-be-setting-up-to-rally-in-the-first-half-of-april-a46d961d?mod=investing
+2025-03-26 23:18:45,567 - __main__ - INFO - Successfully scraped article: 
+2025-03-26 23:18:45,568 - __main__ - WARNING - Failed to scrape article https://www.marketwatch.com/story/why-the-stock-market-could-be-setting-up-to-rally-in-the-first-half-of-april-a46d961d?mod=investing on attempt 1
+2025-03-26 23:18:47,573 - __main__ - INFO - Scraping article: https://www.marketwatch.com/story/why-the-stock-market-could-be-setting-up-to-rally-in-the-first-half-of-april-a46d961d?mod=investing
+2025-03-26 23:18:47,857 - __main__ - INFO - Successfully scraped article: 
+2025-03-26 23:18:47,857 - __main__ - WARNING - Failed to scrape article https://www.marketwatch.com/story/why-the-stock-market-could-be-setting-up-to-rally-in-the-first-half-of-april-a46d961d?mod=investing on attempt 2
+2025-03-26 23:18:50,862 - __main__ - INFO - Scraping article: https://www.marketwatch.com/story/why-the-stock-market-could-be-setting-up-to-rally-in-the-first-half-of-april-a46d961d?mod=investing
+2025-03-26 23:18:51,198 - __main__ - INFO - Successfully scraped article: 
+2025-03-26 23:18:51,199 - __main__ - WARNING - Failed to scrape article https://www.marketwatch.com/story/why-the-stock-market-could-be-setting-up-to-rally-in-the-first-half-of-april-a46d961d?mod=investing on attempt 3
+2025-03-26 23:18:53,389 - __main__ - INFO - Scraping article: https://www.marketwatch.com/story/if-you-love-dividend-stocks-check-out-these-11-companies-with-room-to-boost-their-hefty-payouts-e09eae3e?mod=investing
+2025-03-26 23:18:53,688 - __main__ - INFO - Successfully scraped article: 
+2025-03-26 23:18:53,688 - __main__ - WARNING - Failed to scrape article https://www.marketwatch.com/story/if-you-love-dividend-stocks-check-out-these-11-companies-with-room-to-boost-their-hefty-payouts-e09eae3e?mod=investing on attempt 1
+2025-03-26 23:18:55,693 - __main__ - INFO - Scraping article: https://www.marketwatch.com/story/if-you-love-dividend-stocks-check-out-these-11-companies-with-room-to-boost-their-hefty-payouts-e09eae3e?mod=investing
+2025-03-26 23:18:56,100 - __main__ - INFO - Successfully scraped article: 
+2025-03-26 23:18:56,100 - __main__ - WARNING - Failed to scrape article https://www.marketwatch.com/story/if-you-love-dividend-stocks-check-out-these-11-companies-with-room-to-boost-their-hefty-payouts-e09eae3e?mod=investing on attempt 2
+2025-03-26 23:18:59,106 - __main__ - INFO - Scraping article: https://www.marketwatch.com/story/if-you-love-dividend-stocks-check-out-these-11-companies-with-room-to-boost-their-hefty-payouts-e09eae3e?mod=investing
+2025-03-26 23:18:59,383 - __main__ - INFO - Successfully scraped article: 
+2025-03-26 23:18:59,383 - __main__ - WARNING - Failed to scrape article https://www.marketwatch.com/story/if-you-love-dividend-stocks-check-out-these-11-companies-with-room-to-boost-their-hefty-payouts-e09eae3e?mod=investing on attempt 3
+2025-03-26 23:19:02,612 - __main__ - INFO - Scraping article: https://www.marketwatch.com/story/chewy-blows-past-earnings-estimates-sending-stock-higher-a06dadc5?mod=investing
+2025-03-26 23:19:02,908 - __main__ - INFO - Successfully scraped article: 
+2025-03-26 23:19:02,908 - __main__ - WARNING - Failed to scrape article https://www.marketwatch.com/story/chewy-blows-past-earnings-estimates-sending-stock-higher-a06dadc5?mod=investing on attempt 1
+2025-03-26 23:19:04,913 - __main__ - INFO - Scraping article: https://www.marketwatch.com/story/chewy-blows-past-earnings-estimates-sending-stock-higher-a06dadc5?mod=investing
+2025-03-26 23:19:05,180 - __main__ - INFO - Successfully scraped article: 
+2025-03-26 23:19:05,180 - __main__ - WARNING - Failed to scrape article https://www.marketwatch.com/story/chewy-blows-past-earnings-estimates-sending-stock-higher-a06dadc5?mod=investing on attempt 2
+2025-03-26 23:19:08,185 - __main__ - INFO - Scraping article: https://www.marketwatch.com/story/chewy-blows-past-earnings-estimates-sending-stock-higher-a06dadc5?mod=investing
+2025-03-26 23:19:08,505 - __main__ - INFO - Successfully scraped article: 
+2025-03-26 23:19:08,505 - __main__ - WARNING - Failed to scrape article https://www.marketwatch.com/story/chewy-blows-past-earnings-estimates-sending-stock-higher-a06dadc5?mod=investing on attempt 3
+2025-03-26 23:19:11,061 - __main__ - INFO - Scraping article: https://www.marketwatch.com/story/japan-offering-y700-0b-of-2-2-40-year-govt-bonds-92d25909?mod=investing
+2025-03-26 23:19:11,288 - __main__ - INFO - Successfully scraped article: 
+2025-03-26 23:19:11,288 - __main__ - WARNING - Failed to scrape article https://www.marketwatch.com/story/japan-offering-y700-0b-of-2-2-40-year-govt-bonds-92d25909?mod=investing on attempt 1
+2025-03-26 23:19:13,293 - __main__ - INFO - Scraping article: https://www.marketwatch.com/story/japan-offering-y700-0b-of-2-2-40-year-govt-bonds-92d25909?mod=investing
+2025-03-26 23:19:13,572 - __main__ - INFO - Successfully scraped article: 
+2025-03-26 23:19:13,572 - __main__ - WARNING - Failed to scrape article https://www.marketwatch.com/story/japan-offering-y700-0b-of-2-2-40-year-govt-bonds-92d25909?mod=investing on attempt 2
+2025-03-26 23:19:16,577 - __main__ - INFO - Scraping article: https://www.marketwatch.com/story/japan-offering-y700-0b-of-2-2-40-year-govt-bonds-92d25909?mod=investing
+2025-03-26 23:19:16,893 - __main__ - INFO - Successfully scraped article: 
+2025-03-26 23:19:16,893 - __main__ - WARNING - Failed to scrape article https://www.marketwatch.com/story/japan-offering-y700-0b-of-2-2-40-year-govt-bonds-92d25909?mod=investing on attempt 3
+2025-03-26 23:19:19,625 - __main__ - INFO - Scraping article: https://www.marketwatch.com/story/tianqi-lithium-swung-to-net-loss-in-2024-on-lower-lithium-products-prices-11d258cb?mod=investing
+2025-03-26 23:19:19,938 - __main__ - INFO - Successfully scraped article: 
+2025-03-26 23:19:19,938 - __main__ - WARNING - Failed to scrape article https://www.marketwatch.com/story/tianqi-lithium-swung-to-net-loss-in-2024-on-lower-lithium-products-prices-11d258cb?mod=investing on attempt 1
+2025-03-26 23:19:21,944 - __main__ - INFO - Scraping article: https://www.marketwatch.com/story/tianqi-lithium-swung-to-net-loss-in-2024-on-lower-lithium-products-prices-11d258cb?mod=investing
+2025-03-26 23:19:22,231 - __main__ - INFO - Successfully scraped article: 
+2025-03-26 23:19:22,231 - __main__ - WARNING - Failed to scrape article https://www.marketwatch.com/story/tianqi-lithium-swung-to-net-loss-in-2024-on-lower-lithium-products-prices-11d258cb?mod=investing on attempt 2
+2025-03-26 23:19:25,236 - __main__ - INFO - Scraping article: https://www.marketwatch.com/story/tianqi-lithium-swung-to-net-loss-in-2024-on-lower-lithium-products-prices-11d258cb?mod=investing
+2025-03-26 23:19:25,533 - __main__ - INFO - Successfully scraped article: 
+2025-03-26 23:19:25,534 - __main__ - WARNING - Failed to scrape article https://www.marketwatch.com/story/tianqi-lithium-swung-to-net-loss-in-2024-on-lower-lithium-products-prices-11d258cb?mod=investing on attempt 3
+2025-03-26 23:19:25,534 - __main__ - INFO - Completed scraping from MarketWatch
+2025-03-26 23:19:25,541 - __main__ - INFO - Generated report saved to US_tech_news_20250326/scraping_report.json
+2025-03-26 23:19:25,541 - __main__ - INFO - Scraping completed. Total articles: 35

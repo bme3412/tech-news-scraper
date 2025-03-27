@@ -1,0 +1,15 @@
+{
+    "total_articles": 39,
+    "by_source": {
+        "VentureBeat": 15,
+        "CNBC": 14,
+        "Business Insider": 10
+    },
+    "by_category": {
+        "technology": 29,
+        "business": 10,
+        "investing": 0
+    },
+    "average_content_length": 3450.153846153846,
+    "scraped_at": "2025-03-26T23:19:25.541648"
+}

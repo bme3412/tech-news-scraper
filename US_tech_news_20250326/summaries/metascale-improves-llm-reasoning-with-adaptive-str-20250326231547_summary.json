@@ -1,0 +1,8 @@
+{
+    "article_title": "METASCALE improves LLM reasoning with adaptive strategies",
+    "article_source": "VentureBeat",
+    "article_url": "https://venturebeat.com/ai/metascale-improves-llm-reasoning-with-adaptive-strategies/",
+    "article_date": "March 25, 2025 3:14 PM",
+    "summary": "The article introduces METASCALE, a framework that enhances the reasoning capabilities of large language models (LLMs) by allowing them to adapt their reasoning strategies dynamically during inference. METASCALE, proposed by researchers at the University of California, Davis, the University of Southern California, and Microsoft Research, uses meta-thoughts tailored to specific tasks to improve LLM performance and generalization. This approach aims to address the fixed and inflexible reasoning behavior of LLMs, offering enterprises a way to improve accuracy and efficiency in LLM applications without changing models or costly fine-tuning. METASCALE operates in three phases: initialization, selection, and refinement, using a Multi-Armed Bandit algorithm to optimize the selection of adaptive reasoning strategies.",
+    "summary_generated_at": "2025-03-26T23:15:49.266916"
+}

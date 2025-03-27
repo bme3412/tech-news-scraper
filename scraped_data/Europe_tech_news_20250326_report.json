@@ -1,0 +1,24 @@
+{
+    "total_articles": 30,
+    "by_source": {
+        "The Register": 15,
+        "El País Tecnología": 15
+    },
+    "by_country": {
+        "uk": 15,
+        "spain": 15
+    },
+    "by_category": {
+        "technology": 30,
+        "business": 0,
+        "investing": 0
+    },
+    "by_language": {
+        "en": 15,
+        "de": 0,
+        "fr": 0,
+        "es": 15
+    },
+    "average_content_length": 5383.966666666666,
+    "scraped_at": "2025-03-26T23:08:20.896735"
+}

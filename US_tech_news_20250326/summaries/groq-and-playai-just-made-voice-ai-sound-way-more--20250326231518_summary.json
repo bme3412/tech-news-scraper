@@ -1,0 +1,8 @@
+{
+    "article_title": "Groq and PlayAI just made voice AI sound way more human — here’s how",
+    "article_source": "VentureBeat",
+    "article_url": "https://venturebeat.com/ai/groq-and-playai-just-made-voice-ai-sound-way-more-human-heres-how/",
+    "article_date": "March 26, 2025 8:30 AM",
+    "summary": "Groq and PlayAI have partnered to introduce Dialog, an advanced text-to-speech model aimed at creating natural-sounding and responsive voice AI systems. Dialog is available in English and Arabic, making it the first voice AI model focused on the Middle East. The system uses an 'adaptive speech contextualizer' to provide contextually appropriate responses, addressing key issues in existing voice AI technologies. Groq's high-speed inference platform, GroqCloud, delivers efficient AI processing, with Dialog achieving up to 10 times faster than real-time text generation compared to GPUs. The partnership seeks to offer low-latency voice models for various applications from customer service to accessibility features.",
+    "summary_generated_at": "2025-03-26T23:15:20.618810"
+}

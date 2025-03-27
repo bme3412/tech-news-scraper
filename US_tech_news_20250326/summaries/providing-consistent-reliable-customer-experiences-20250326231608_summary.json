@@ -1,0 +1,8 @@
+{
+    "article_title": "Providing consistent, reliable customer experiences with CQRS at scale",
+    "article_source": "VentureBeat",
+    "article_url": "https://venturebeat.com/data-infrastructure/providing-consistent-reliable-customer-experiences-with-cqrs-at-scale/",
+    "article_date": "March 25, 2025 6:50 AM",
+    "summary": "JPMorganChase experienced a surge in transaction-related inquiries from Chase card customers using digital services. To maintain consistent customer experiences, they modernized their systems and adopted Command Query Responsibility Segregation (CQRS), a software pattern separating write and read operations. This transition allowed for improved scalability, performance, and reliability in complex systems, ultimately enhancing customer experience and business continuity. While CQRS offers benefits, it also introduces complexities that need careful evaluation and may not be suitable for all projects or teams.",
+    "summary_generated_at": "2025-03-26T23:16:10.068543"
+}

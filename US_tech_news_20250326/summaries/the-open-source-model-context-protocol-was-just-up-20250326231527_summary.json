@@ -1,0 +1,8 @@
+{
+    "article_title": "The open source Model Context Protocol was just updated — here’s why it’s a big deal",
+    "article_source": "VentureBeat",
+    "article_url": "https://venturebeat.com/ai/the-open-source-model-context-protocol-was-just-updated-heres-why-its-a-big-deal/",
+    "article_date": "March 26, 2025 6:51 PM",
+    "summary": "The Model Context Protocol (MCP) has been updated to enhance AI agent capabilities in interacting with tools and data. Notably, industry leaders like OpenAI and Microsoft have expressed support for MCP, signaling its growing importance. The protocol features modular design, allowing developers to implement specific components based on their needs. Microsoft's Playwright-MCP server enables AI agents like Claude to automate web browsing tasks using the Chrome accessibility tree. MCP aims to establish a common protocol for tool integration across ecosystems, with support from key industry players like Anthropic, LangChain, OpenAI, and Microsoft. The growing adoption of MCP and OpenAI's ecosystem signals momentum towards standardizing agent interconnectivity in the industry.",
+    "summary_generated_at": "2025-03-26T23:15:29.035036"
+}

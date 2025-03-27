@@ -1,0 +1,21 @@
+{
+    "total_articles": 15,
+    "by_source": {
+        "Asia Times": 15
+    },
+    "by_country": {
+        "hong_kong": 15
+    },
+    "by_category": {
+        "technology": 15,
+        "business": 0
+    },
+    "by_language": {
+        "en": 15,
+        "zh": 0,
+        "ja": 0,
+        "ko": 0
+    },
+    "average_content_length": 5606.533333333334,
+    "scraped_at": "2025-03-26T23:11:35.254980"
+}

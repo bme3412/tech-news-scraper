@@ -1,0 +1,8 @@
+{
+    "article_title": "Beyond transformers: Nvidia’s MambaVision aims to unlock faster, cheaper enterprise computer vision",
+    "article_source": "VentureBeat",
+    "article_url": "https://venturebeat.com/ai/beyond-transformers-nvidias-mambavision-aims-to-unlock-faster-cheaper-enterprise-computer-vision/",
+    "article_date": "March 25, 2025 3:35 PM",
+    "summary": "Nvidia has introduced MambaVision, a model family for computer vision tasks that aims to improve efficiency and accuracy while minimizing computational requirements. MambaVision utilizes Structured State Space Models (SSMs) which process data differently from transformers. It combines the efficiency of Mamba with the modeling power of transformers, offering a hybrid approach. The latest MambaVision models have been released on Hugging Face, featuring improvements in scale and performance, with larger parameters and training on ImageNet-21K dataset. This hybrid model promises to enhance enterprise computer vision operations at lower costs.",
+    "summary_generated_at": "2025-03-26T23:15:45.530921"
+}
